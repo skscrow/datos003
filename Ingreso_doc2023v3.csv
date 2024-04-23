@@ -1,0 +1,1970 @@
+AREA_ESP,Nombre_Docente,Pais,FECHA,MES,Hora Inicio,Hora de ingreso,Clasificacion_ingreso,Minutos_tarde
+Calidad,Jaime Yanez,Peru,04/01/2023,1,19:00,18:53,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,05/01/2023,1,19:00,18:58,A TIEMPO,0
+Calidad,Roxana Alvarez,Peru,05/01/2023,1,19:00,18:59,A TIEMPO,0
+Calidad,Roxana Alvarez,Peru,09/01/2023,1,19:00,18:59,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,09/01/2023,1,19:00,18:54,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,10/01/2023,1,19:00,18:57,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,10/01/2023,1,19:00,18:51,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,10/01/2023,1,19:00,19:01,TARDE,1
+TI,Freddy Jimenez,Venezuela,10/01/2023,1,19:00,18:54,TEMPRANO,0
+Construccion,Boris Heredia,Chile,10/01/2023,1,19:00,18:57,A TIEMPO,0
+TI,Walter Arroyo,Colombia,10/01/2023,1,19:00,18:49,TEMPRANO,0
+Construccion,Luis Alvarado,Chile,10/01/2023,1,19:00,19:04,TARDE,4
+TI,Ericcson Castrellon,Venezuela,10/01/2023,1,19:00,19:01,TARDE,1
+Proyectos,Juan Ortega,Colombia,10/01/2023,1,19:00,19:02,TARDE,2
+Proyectos,Jose Tinajero,Mexico,10/01/2023,1,20:00,19:55,A TIEMPO,0
+Mineria,Marlon Montero,Peru,11/01/2023,1,19:00,18:55,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,11/01/2023,1,19:00,19:02,TARDE,2
+Proyectos,Sofia Lopez,Colombia,11/01/2023,1,19:00,18:55,A TIEMPO,0
+TI,Walter Arroyo,Colombia,11/01/2023,1,19:00,18:50,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,11/01/2023,1,19:00,18:58,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,11/01/2023,1,19:00,19:04,TARDE,4
+Calidad,Pedro Ordonez,Peru,11/01/2023,1,19:00,18:45,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,11/01/2023,1,19:00,18:52,TEMPRANO,0
+Calidad,Juan Ayala,Peru,11/01/2023,1,19:00,18:53,TEMPRANO,0
+Calidad,Roxana Alvarez,Peru,11/01/2023,1,19:00,18:59,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,12/01/2023,1,19:00,18:52,TEMPRANO,0
+TI,Ericcson Castrellon,Venezuela,12/01/2023,1,19:00,19:02,TARDE,2
+TI,Raul Cordova,Peru,12/01/2023,1,19:00,18:58,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,12/01/2023,1,19:00,18:45,TEMPRANO,0
+Calidad,Franco Gamboni,Peru,12/01/2023,1,19:00,18:58,A TIEMPO,0
+TI,Walter Arroyo,Colombia,12/01/2023,1,19:00,18:55,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,16/01/2023,1,19:00,18:59,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,16/01/2023,1,19:00,18:56,A TIEMPO,0
+Calidad,Roxana Alvarez,Peru,16/01/2023,1,19:00,19:04,TARDE,4
+Calidad,Franco Gamboni,Peru,16/01/2023,1,19:00,18:59,A TIEMPO,0
+Calidad,Giovanni Cajas,Colombia,16/01/2023,1,19:00,18:51,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,16/01/2023,1,19:00,18:32,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,16/01/2023,1,19:00,18:53,TEMPRANO,0
+Calidad,Edgar Villena,Peru,16/01/2023,1,19:00,18:55,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,17/01/2023,1,19:00,18:57,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,17/01/2023,1,19:00,18:53,TEMPRANO,0
+Construccion,Boris Heredia,Chile,17/01/2023,1,19:00,18:59,A TIEMPO,0
+TI,Walter Arroyo,Colombia,17/01/2023,1,19:00,19:01,TARDE,1
+Construccion,Luis Alvarado,Chile,17/01/2023,1,19:00,19:00,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,17/01/2023,1,19:00,19:01,TARDE,1
+TI,Freddy Jimenez,Venezuela,17/01/2023,1,19:00,18:52,TEMPRANO,0
+Proyectos,Alfredo Ugalde,Colombia,17/01/2023,1,19:00,18:53,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,17/01/2023,1,19:00,18:58,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,17/01/2023,1,19:00,18:58,A TIEMPO,0
+TI,Raul Cordova,Peru,17/01/2023,1,19:00,19:02,TARDE,2
+Proyectos,Jose Tinajero,Mexico,17/01/2023,1,20:00,19:50,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,17/01/2023,1,19:00,19:02,TARDE,2
+Proyectos,Sofia Lopez,Colombia,18/01/2023,1,19:00,18:55,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,18/01/2023,1,19:00,18:58,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,18/01/2023,1,19:00,18:59,A TIEMPO,0
+Mineria,Marlon Montero,Peru,18/01/2023,1,19:00,19:02,TARDE,2
+Calidad,Jaime Yanez,Peru,18/01/2023,1,19:00,18:31,TEMPRANO,0
+Calidad,Giovanni Cajas,Colombia,18/01/2023,1,19:00,18:37,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,18/01/2023,1,19:00,19:02,TARDE,2
+Calidad,Mauricio Amezquita,Colombia,18/01/2023,1,19:00,18:53,TEMPRANO,0
+Calidad,Pedro Ordonez,Peru,18/01/2023,1,19:00,18:56,A TIEMPO,0
+Calidad,Edgar Villena,Peru,18/01/2023,1,19:00,19:02,TARDE,2
+Proyectos,Jaime Ferro,Colombia,18/01/2023,1,19:00,18:50,TEMPRANO,0
+Calidad,Juan Ayala,Peru,18/01/2023,1,19:00,18:53,TEMPRANO,0
+Calidad,Roxana Alvarez,Peru,18/01/2023,1,19:00,18:50,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,18/01/2023,1,19:00,19:03,TARDE,3
+TI,Walter Arroyo,Colombia,18/01/2023,1,19:00,19:00,A TIEMPO,0
+TI,Walter Arroyo,Colombia,19/01/2023,1,19:00,18:54,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,19/01/2023,1,19:00,18:52,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,19/01/2023,1,19:00,19:00,A TIEMPO,0
+Construccion,Boris Heredia,Chile,19/01/2023,1,19:00,18:50,TEMPRANO,0
+TI,Richard Gonzalez,Colombia,19/01/2023,1,19:00,19:07,TARDE,7
+TI,Ericcson Castrellon,Venezuela,19/01/2023,1,19:00,19:01,TARDE,1
+TI,Raul Cordova,Peru,19/01/2023,1,19:00,18:59,A TIEMPO,0
+Calidad,Franco Gamboni,Peru,19/01/2023,1,19:00,18:55,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,19/01/2023,1,19:00,18:55,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,23/01/2023,1,19:00,18:57,A TIEMPO,0
+Calidad,Giovanni Cajas,Colombia,23/01/2023,1,19:00,18:50,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,23/01/2023,1,19:00,18:51,TEMPRANO,0
+Calidad,Edgar Villena,Peru,23/01/2023,1,19:00,18:59,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,23/01/2023,1,19:00,18:39,TEMPRANO,0
+Calidad,Roxana Alvarez,Peru,23/01/2023,1,19:00,18:51,TEMPRANO,0
+Calidad,Franco Gamboni,Peru,23/01/2023,1,19:00,18:54,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,23/01/2023,1,19:00,18:54,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,24/01/2023,1,19:00,18:54,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,24/01/2023,1,19:00,18:53,TEMPRANO,0
+Construccion,Boris Heredia,Chile,24/01/2023,1,19:00,18:58,A TIEMPO,0
+TI,Walter Arroyo,Colombia,24/01/2023,1,19:00,18:56,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,24/01/2023,1,19:00,19:04,TARDE,4
+TI,Ericcson Castrellon,Venezuela,24/01/2023,1,19:00,19:01,TARDE,1
+Proyectos,Juan Ortega,Colombia,24/01/2023,1,19:00,19:02,TARDE,2
+TI,Freddy Jimenez,Venezuela,24/01/2023,1,19:00,18:40,TEMPRANO,0
+Proyectos,Alfredo Ugalde,Colombia,24/01/2023,1,19:00,18:58,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,24/01/2023,1,19:00,18:58,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,24/01/2023,1,19:00,19:00,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,24/01/2023,1,20:00,19:50,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,25/01/2023,1,19:00,19:01,TARDE,1
+Calidad,Jaime Yanez,Peru,25/01/2023,1,19:00,18:29,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,25/01/2023,1,19:00,19:00,A TIEMPO,0
+Calidad,Pedro Ordonez,Peru,25/01/2023,1,19:00,18:54,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,25/01/2023,1,19:00,18:58,A TIEMPO,0
+Calidad,Juan Ayala,Peru,25/01/2023,1,19:00,18:49,TEMPRANO,0
+Calidad,Roxana Alvarez,Peru,25/01/2023,1,19:00,19:09,TARDE,9
+Construccion,Oscar Cardenas,Colombia,25/01/2023,1,19:00,18:59,A TIEMPO,0
+Mineria,Marlon Montero,Peru,25/01/2023,1,19:00,19:00,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,25/01/2023,1,19:00,18:58,A TIEMPO,0
+Calidad,Giovanni Cajas,Colombia,25/01/2023,1,19:00,18:59,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,25/01/2023,1,19:00,18:48,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,25/01/2023,1,19:00,18:53,TEMPRANO,0
+TI,Walter Arroyo,Colombia,25/01/2023,1,19:00,19:11,TARDE,11
+TI,Walter Arroyo,Colombia,25/01/2023,1,19:00,19:12,TARDE,12
+Calidad,Edgar Villena,Peru,25/01/2023,1,19:00,18:56,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,25/01/2023,1,19:00,19:05,TARDE,5
+TI,Ericcson Castrellon,Venezuela,25/01/2023,1,19:00,19:01,TARDE,1
+Proyectos,Nestor Rodriguez,Colombia,26/01/2023,1,19:00,18:59,A TIEMPO,0
+Construccion,Boris Heredia,Chile,26/01/2023,1,19:00,18:56,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,26/01/2023,1,19:00,19:01,TARDE,1
+Calidad,Franco Gamboni,Peru,26/01/2023,1,19:00,18:58,A TIEMPO,0
+TI,Walter Arroyo,Colombia,26/01/2023,1,19:00,18:48,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,26/01/2023,1,19:00,18:52,TEMPRANO,0
+TI,Raul Cordova,Peru,26/01/2023,1,19:00,18:56,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,26/01/2023,1,19:00,18:52,TEMPRANO,0
+Proyectos,Alfredo Ugalde,Colombia,27/01/2023,1,19:00,18:49,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,30/01/2023,1,19:00,18:59,A TIEMPO,0
+Calidad,Giovanni Cajas,Colombia,30/01/2023,1,19:00,18:36,TEMPRANO,0
+Proyectos,Alfredo Ugalde,Colombia,30/01/2023,1,19:00,18:57,A TIEMPO,0
+Calidad,Roxana Alvarez,Peru,30/01/2023,1,19:00,19:04,TARDE,4
+TI,Luis Arias,Peru,30/01/2023,1,19:00,18:54,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,30/01/2023,1,19:00,18:36,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,30/01/2023,1,19:00,18:55,A TIEMPO,0
+Calidad,Edgar Villena,Peru,30/01/2023,1,19:00,18:59,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,31/01/2023,1,19:00,18:58,A TIEMPO,0
+TI,Walter Arroyo,Colombia,31/01/2023,1,19:00,19:07,TARDE,7
+Construccion,Luis Alvarado,Chile,31/01/2023,1,19:00,19:03,TARDE,3
+TI,Ericcson Castrellon,Venezuela,31/01/2023,1,19:00,19:02,TARDE,2
+Proyectos,Juan Ortega,Colombia,31/01/2023,1,19:00,19:03,TARDE,3
+Calidad,Franco Gamboni,Peru,31/01/2023,1,19:00,19:01,TARDE,1
+TI,Freddy Jimenez,Venezuela,31/01/2023,1,19:00,18:54,TEMPRANO,0
+Proyectos,Betzy Jaramillo,Colombia,31/01/2023,1,19:00,18:38,TEMPRANO,0
+Calidad,Jose Quezada,Peru,31/01/2023,1,19:00,19:05,TARDE,5
+Proyectos,Nestor Rodriguez,Colombia,31/01/2023,1,19:00,18:56,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,31/01/2023,1,19:00,18:58,A TIEMPO,0
+TI,Raul Cordova,Peru,31/01/2023,1,19:00,18:55,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,31/01/2023,1,20:00,19:51,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,01/02/2023,2,19:00,18:59,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,01/02/2023,2,19:00,19:00,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,01/02/2023,2,19:00,18:59,A TIEMPO,0
+Calidad,Pedro Ordonez,Peru,01/02/2023,2,19:00,18:48,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,01/02/2023,2,19:00,18:58,A TIEMPO,0
+Calidad,Juan Ayala,Peru,01/02/2023,2,19:00,18:55,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,01/02/2023,2,19:00,19:00,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,01/02/2023,2,19:00,18:53,TEMPRANO,0
+TI,Walter Arroyo,Colombia,01/02/2023,2,19:00,18:43,TEMPRANO,0
+TI,Ericcson Castrellon,Venezuela,01/02/2023,2,19:00,19:02,TARDE,2
+Calidad,Giovanni Cajas,Colombia,01/02/2023,2,19:00,18:54,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,01/02/2023,2,19:00,19:02,TARDE,2
+Proyectos,Sofia Lopez,Colombia,01/02/2023,2,19:00,18:52,TEMPRANO,0
+Calidad,Edgar Villena,Peru,01/02/2023,2,19:00,19:00,A TIEMPO,0
+TI,Raul Cordova,Peru,01/02/2023,2,19:00,19:35,TARDE,35
+Proyectos,Nestor Rodriguez,Colombia,02/02/2023,2,19:00,18:54,TEMPRANO,0
+TI,Ericcson Castrellon,Venezuela,02/02/2023,2,19:00,19:02,TARDE,2
+Proyectos,Sofia Lopez,Colombia,02/02/2023,2,19:00,18:57,A TIEMPO,0
+TI,Raul Cordova,Peru,02/02/2023,2,19:00,19:01,TARDE,1
+Calidad,Jaime Yanez,Peru,02/02/2023,2,19:00,18:57,A TIEMPO,0
+TI,Walter Arroyo,Colombia,02/02/2023,2,19:00,18:51,TEMPRANO,0
+Calidad,Franco Gamboni,Peru,02/02/2023,2,19:00,18:55,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,07/02/2023,2,19:00,18:56,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,07/02/2023,2,19:00,18:51,TEMPRANO,0
+TI,Walter Arroyo,Colombia,07/02/2023,2,19:00,18:57,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,07/02/2023,2,19:00,18:58,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,07/02/2023,2,19:00,19:01,TARDE,1
+Proyectos,Juan Ortega,Colombia,07/02/2023,2,19:00,19:02,TARDE,2
+Calidad,Jose Quezada,Peru,07/02/2023,2,19:00,19:18,TARDE,18
+Proyectos,Nestor Rodriguez,Colombia,07/02/2023,2,19:00,18:55,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,07/02/2023,2,19:00,19:01,TARDE,1
+Calidad,Franco Gamboni,Peru,07/02/2023,2,19:00,19:01,TARDE,1
+TI,Raul Cordova,Peru,07/02/2023,2,19:00,19:03,TARDE,3
+TI,Freddy Jimenez,Venezuela,07/02/2023,2,19:00,18:44,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,07/02/2023,2,20:00,19:52,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,08/02/2023,2,19:00,18:58,A TIEMPO,0
+Calidad,Pedro Ordonez,Peru,08/02/2023,2,19:00,18:50,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,08/02/2023,2,19:00,18:48,TEMPRANO,0
+Calidad,Juan Ayala,Peru,08/02/2023,2,19:00,19:01,TARDE,1
+Construccion,Luis Alvarado,Chile,08/02/2023,2,19:00,19:01,TARDE,1
+Proyectos,Alfredo Ugalde,Colombia,08/02/2023,2,19:00,18:56,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,08/02/2023,2,19:00,18:51,TEMPRANO,0
+TI,Ericcson Castrellon,Venezuela,08/02/2023,2,19:00,19:01,TARDE,1
+TI,Raul Cordova,Peru,08/02/2023,2,19:00,19:02,TARDE,2
+Proyectos,Sofia Lopez,Colombia,08/02/2023,2,19:00,18:56,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,08/02/2023,2,19:00,19:06,TARDE,6
+TI,Walter Arroyo,Colombia,08/02/2023,2,19:00,18:57,A TIEMPO,0
+Mineria,Marlon Montero,Peru,08/02/2023,2,19:00,19:32,TARDE,32
+Proyectos,Nestor Rodriguez,Colombia,09/02/2023,2,19:00,18:52,TEMPRANO,0
+TI,Raul Cordova,Peru,09/02/2023,2,19:00,18:58,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,09/02/2023,2,19:00,18:54,TEMPRANO,0
+Calidad,Franco Gamboni,Peru,09/02/2023,2,19:00,18:59,A TIEMPO,0
+TI,Walter Arroyo,Colombia,09/02/2023,2,19:00,18:58,A TIEMPO,0
+Calidad,Jorge Ponce,Peru,09/02/2023,2,19:00,18:49,TEMPRANO,0
+Proyectos,Alfredo Ugalde,Colombia,09/02/2023,2,19:00,18:47,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,09/02/2023,2,19:00,18:55,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,10/02/2023,2,19:00,18:58,A TIEMPO,0
+TI,Luis Arias,Peru,13/02/2023,2,19:00,19:00,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,13/02/2023,2,19:00,18:48,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,13/02/2023,2,19:00,18:56,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,13/02/2023,2,19:00,18:46,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,13/02/2023,2,19:00,18:59,A TIEMPO,0
+Calidad,Juan Ayala,Peru,13/02/2023,2,19:00,18:54,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,14/02/2023,2,19:00,18:56,A TIEMPO,0
+TI,Walter Arroyo,Colombia,14/02/2023,2,19:00,19:01,TARDE,1
+Construccion,Luis Alvarado,Chile,14/02/2023,2,19:00,19:02,TARDE,2
+TI,Ericcson Castrellon,Venezuela,14/02/2023,2,19:00,19:01,TARDE,1
+Proyectos,Juan Ortega,Colombia,14/02/2023,2,19:00,19:01,TARDE,1
+TI,Freddy Jimenez,Venezuela,14/02/2023,2,19:00,18:50,TEMPRANO,0
+Proyectos,Betzy Jaramillo,Colombia,14/02/2023,2,19:00,18:44,TEMPRANO,0
+Calidad,Jose Quezada,Peru,14/02/2023,2,19:00,19:02,TARDE,2
+TI,Raul Cordova,Peru,14/02/2023,2,19:00,19:01,TARDE,1
+Proyectos,Jose Tinajero,Mexico,14/02/2023,2,20:00,19:52,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,15/02/2023,2,19:00,18:51,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,15/02/2023,2,19:00,18:58,A TIEMPO,0
+Calidad,Pedro Ordonez,Peru,15/02/2023,2,19:00,18:57,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,15/02/2023,2,19:00,18:58,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,15/02/2023,2,19:00,19:04,TARDE,4
+Proyectos,Alfredo Ugalde,Colombia,15/02/2023,2,19:00,18:54,TEMPRANO,0
+TI,Walter Arroyo,Colombia,15/02/2023,2,19:00,18:57,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,15/02/2023,2,19:00,19:16,TARDE,16
+Calidad,Mauricio Amezquita,Colombia,15/02/2023,2,19:00,18:44,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,15/02/2023,2,19:00,18:45,TEMPRANO,0
+TI,Ericcson Castrellon,Venezuela,15/02/2023,2,19:00,19:00,A TIEMPO,0
+Calidad,Juan Ayala,Peru,15/02/2023,2,19:00,18:54,TEMPRANO,0
+TI,Raul Cordova,Peru,15/02/2023,2,19:00,19:01,TARDE,1
+Proyectos,Sofia Lopez,Colombia,15/02/2023,2,19:00,18:52,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,15/02/2023,2,19:00,18:51,TEMPRANO,0
+Proyectos,Alfredo Ugalde,Colombia,16/02/2023,2,19:00,18:51,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,16/02/2023,2,19:00,18:56,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,16/02/2023,2,19:00,18:59,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,16/02/2023,2,19:00,18:55,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,16/02/2023,2,19:00,18:54,TEMPRANO,0
+TI,Raul Cordova,Peru,16/02/2023,2,19:00,19:01,TARDE,1
+Calidad,Juan Ayala,Peru,16/02/2023,2,19:00,18:55,A TIEMPO,0
+TI,Walter Arroyo,Colombia,16/02/2023,2,19:00,19:01,TARDE,1
+Calidad,Jorge Ponce,Peru,16/02/2023,2,19:00,18:56,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,17/02/2023,2,19:00,18:52,TEMPRANO,0
+TI,Luis Arias,Peru,20/02/2023,2,19:00,19:01,TARDE,1
+Calidad,Mauricio Amezquita,Colombia,20/02/2023,2,19:00,18:43,TEMPRANO,0
+Calidad,Giovanni Cajas,Colombia,20/02/2023,2,19:00,18:53,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,20/02/2023,2,19:00,18:53,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,20/02/2023,2,19:00,18:59,A TIEMPO,0
+Calidad,Juan Ayala,Peru,20/02/2023,2,19:00,18:54,TEMPRANO,0
+IA,Andres Villarroel,Chile,21/02/2023,2,19:00,18:38,TEMPRANO,0
+Proyectos,Gustavo Barboza,Peru,21/02/2023,2,19:00,18:51,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,21/02/2023,2,19:00,18:55,A TIEMPO,0
+Mantenimiento,Jhon Roman,Colombia,21/02/2023,2,19:00,18:51,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,21/02/2023,2,19:00,19:01,TARDE,1
+TI,Raul Cordova,Peru,21/02/2023,2,19:00,19:03,TARDE,3
+Construccion,Sofia Lopez,Colombia,21/02/2023,2,19:00,18:52,TEMPRANO,0
+TI,Walter Arroyo,Colombia,21/02/2023,2,19:00,18:55,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,21/02/2023,2,19:00,19:00,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,21/02/2023,2,19:00,19:02,TARDE,2
+Proyectos,Juan Ortega,Colombia,21/02/2023,2,19:00,19:01,TARDE,1
+Calidad,Franco Gamboni,Peru,21/02/2023,2,19:00,19:00,A TIEMPO,0
+TI,Freddy Jimenez,Venezuela,21/02/2023,2,19:00,18:51,TEMPRANO,0
+Proyectos,Betzy Jaramillo,Colombia,21/02/2023,2,19:00,18:47,TEMPRANO,0
+Calidad,Jose Quezada,Peru,21/02/2023,2,19:00,19:03,TARDE,3
+Proyectos,Jose Tinajero,Mexico,21/02/2023,2,20:00,19:56,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,22/02/2023,2,19:00,18:53,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,22/02/2023,2,19:00,18:52,TEMPRANO,0
+Calidad,Juan Ayala,Peru,22/02/2023,2,19:00,18:53,TEMPRANO,0
+TI,Raul Cordova,Peru,22/02/2023,2,19:00,19:04,TARDE,4
+Proyectos,Nestor Rodriguez,Colombia,22/02/2023,2,19:00,18:54,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,22/02/2023,2,19:00,18:57,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,22/02/2023,2,19:00,18:59,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,22/02/2023,2,19:00,18:54,TEMPRANO,0
+Calidad,Pedro Ordonez,Peru,22/02/2023,2,19:00,18:51,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,22/02/2023,2,19:00,19:00,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,22/02/2023,2,19:00,19:01,TARDE,1
+Proyectos,Alfredo Ugalde,Colombia,22/02/2023,2,19:00,18:59,A TIEMPO,0
+TI,Walter Arroyo,Colombia,22/02/2023,2,19:00,18:58,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,22/02/2023,2,19:00,18:43,TEMPRANO,0
+Mineria,Marlon Montero,Peru,22/02/2023,2,19:00,18:58,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,22/02/2023,2,19:00,19:02,TARDE,2
+Proyectos,Alfredo Ugalde,Colombia,23/02/2023,2,19:00,18:53,TEMPRANO,0
+IA,Andres Villarroel,Chile,23/02/2023,2,19:00,18:48,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,23/02/2023,2,19:00,18:59,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,23/02/2023,2,19:00,19:01,TARDE,1
+Proyectos,Jose Tinajero,Mexico,23/02/2023,2,19:00,18:53,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,23/02/2023,2,19:00,18:54,TEMPRANO,0
+TI,Raul Cordova,Peru,23/02/2023,2,19:00,19:05,TARDE,5
+Calidad,Juan Ayala,Peru,23/02/2023,2,19:00,18:49,TEMPRANO,0
+TI,Walter Arroyo,Colombia,23/02/2023,2,19:00,18:58,A TIEMPO,0
+Mantenimiento,Humberto Dulanto,Peru,23/02/2023,2,19:00,18:52,TEMPRANO,0
+Calidad,Jorge Ponce,Peru,23/02/2023,2,19:00,18:45,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,24/02/2023,2,19:00,18:57,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,24/02/2023,2,19:00,18:54,TEMPRANO,0
+TI,Luis Arias,Peru,27/02/2023,2,19:00,19:02,TARDE,2
+Calidad,Mauricio Amezquita,Colombia,27/02/2023,2,19:00,18:54,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,27/02/2023,2,19:00,19:03,TARDE,3
+Calidad,Giovanni Cajas,Colombia,27/02/2023,2,19:00,18:58,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,27/02/2023,2,19:00,18:52,TEMPRANO,0
+Calidad,Juan Ayala,Peru,27/02/2023,2,19:00,18:53,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,27/02/2023,2,19:00,18:39,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,27/02/2023,2,20:00,19:52,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,28/02/2023,2,19:00,18:54,TEMPRANO,0
+TI,Walter Arroyo,Colombia,28/02/2023,2,19:00,18:57,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,28/02/2023,2,19:00,19:02,TARDE,2
+TI,Ericcson Castrellon,Venezuela,28/02/2023,2,19:00,19:02,TARDE,2
+Proyectos,Juan Ortega,Colombia,28/02/2023,2,19:00,19:02,TARDE,2
+TI,Freddy Jimenez,Venezuela,28/02/2023,2,19:00,18:52,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,28/02/2023,2,19:00,18:42,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,28/02/2023,2,19:00,19:00,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,28/02/2023,2,19:00,18:56,A TIEMPO,0
+Mantenimiento,Jhon Roman,Colombia,28/02/2023,2,19:00,18:52,TEMPRANO,0
+Proyectos,Gustavo Barboza,Peru,28/02/2023,2,19:00,18:44,TEMPRANO,0
+IA,Andres Villarroel,Chile,28/02/2023,2,19:00,18:52,TEMPRANO,0
+TI,Raul Cordova,Peru,28/02/2023,2,19:00,18:54,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,28/02/2023,2,20:00,19:52,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,01/03/2023,3,19:00,18:55,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,01/03/2023,3,19:00,18:58,A TIEMPO,0
+Calidad,Pedro Ordonez,Peru,01/03/2023,3,19:00,18:52,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,01/03/2023,3,19:00,19:25,TARDE,25
+Calidad,Jaime Yanez,Peru,01/03/2023,3,19:00,18:57,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,01/03/2023,3,19:00,19:02,TARDE,2
+Proyectos,Juan Ortega,Colombia,01/03/2023,3,19:00,19:02,TARDE,2
+TI,Walter Arroyo,Colombia,01/03/2023,3,19:00,19:02,TARDE,2
+Mineria,Marlon Montero,Peru,01/03/2023,3,19:00,18:58,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,01/03/2023,3,19:00,19:02,TARDE,2
+Calidad,Mauricio Amezquita,Colombia,01/03/2023,3,19:00,18:44,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,01/03/2023,3,19:00,19:08,TARDE,8
+TI,Raul Cordova,Peru,01/03/2023,3,19:00,18:55,A TIEMPO,0
+Calidad,Juan Ayala,Peru,01/03/2023,3,19:00,18:57,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,01/03/2023,3,19:00,18:50,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,01/03/2023,3,19:00,18:53,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,02/03/2023,3,19:00,18:56,A TIEMPO,0
+TI,Raul Cordova,Peru,02/03/2023,3,19:00,19:05,TARDE,5
+Calidad,Juan Ayala,Peru,02/03/2023,3,19:00,18:46,TEMPRANO,0
+TI,Walter Arroyo,Colombia,02/03/2023,3,19:00,18:58,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,02/03/2023,3,19:00,18:55,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,02/03/2023,3,19:00,18:59,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,02/03/2023,3,19:00,18:49,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,02/03/2023,3,19:00,18:59,A TIEMPO,0
+IA,Andres Villarroel,Chile,02/03/2023,3,19:00,18:52,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,03/03/2023,3,19:00,18:53,TEMPRANO,0
+Proyectos,Alfredo Ugalde,Colombia,03/03/2023,3,19:00,18:50,TEMPRANO,0
+Calidad,Juan Ayala,Peru,06/03/2023,3,19:00,18:49,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,06/03/2023,3,19:00,18:56,A TIEMPO,0
+TI,Luis Arias,Peru,06/03/2023,3,19:00,19:00,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,06/03/2023,3,20:00,19:50,TEMPRANO,0
+Calidad,Jose Quezada,Peru,07/03/2023,3,19:00,18:59,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,07/03/2023,3,19:00,19:02,TARDE,2
+Mantenimiento,Jhon Roman,Colombia,07/03/2023,3,19:00,18:53,TEMPRANO,0
+Proyectos,Gustavo Barboza,Peru,07/03/2023,3,19:00,18:53,TEMPRANO,0
+IA,Andres Villarroel,Chile,07/03/2023,3,19:00,18:42,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,07/03/2023,3,19:00,18:59,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,07/03/2023,3,19:00,18:51,TEMPRANO,0
+Construccion,Boris Heredia,Chile,07/03/2023,3,19:00,18:52,TEMPRANO,0
+TI,Ericcson Castrellon,Venezuela,07/03/2023,3,19:00,19:01,TARDE,1
+Proyectos,Juan Ortega,Colombia,07/03/2023,3,19:00,19:03,TARDE,3
+Proyectos,Diego Delgadillo,Bolivia,07/03/2023,3,19:00,18:48,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,07/03/2023,3,20:00,19:50,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,08/03/2023,3,19:00,18:54,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,08/03/2023,3,19:00,18:53,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,08/03/2023,3,19:00,18:39,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,08/03/2023,3,19:00,19:00,A TIEMPO,0
+Calidad,Juan Ayala,Peru,08/03/2023,3,19:00,18:45,TEMPRANO,0
+Mineria,Marlon Montero,Peru,08/03/2023,3,19:00,19:02,TARDE,2
+Proyectos,Sofia Lopez,Colombia,08/03/2023,3,19:00,18:58,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,08/03/2023,3,19:00,18:51,TEMPRANO,0
+TI,Ericcson Castrellon,Venezuela,08/03/2023,3,19:00,19:04,TARDE,4
+TI,Raul Cordova,Peru,08/03/2023,3,19:00,19:01,TARDE,1
+Construccion,Luis Alvarado,Chile,08/03/2023,3,19:00,19:00,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,08/03/2023,3,19:00,19:03,TARDE,3
+TI,Richard Gonzalez,Colombia,08/03/2023,3,19:00,18:52,TEMPRANO,0
+Mantenimiento,Humberto Dulanto,Peru,09/03/2023,3,19:00,18:17,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,09/03/2023,3,19:00,18:57,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,09/03/2023,3,19:00,18:53,TEMPRANO,0
+IA,Andres Villarroel,Chile,09/03/2023,3,19:00,18:48,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,09/03/2023,3,19:00,18:57,A TIEMPO,0
+Calidad,Jorge Ponce,Peru,09/03/2023,3,19:00,18:59,A TIEMPO,0
+Proyectos,Betzy Jaramillo,Colombia,09/03/2023,3,19:00,18:55,A TIEMPO,0
+Calidad,Juan Ayala,Peru,09/03/2023,3,19:00,18:55,A TIEMPO,0
+TI,Raul Cordova,Peru,09/03/2023,3,19:00,19:06,TARDE,6
+TI,Richard Gonzalez,Colombia,10/03/2023,3,19:00,19:00,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,10/03/2023,3,19:00,18:49,TEMPRANO,0
+Proyectos,Alfredo Ugalde,Colombia,10/03/2023,3,19:00,18:51,TEMPRANO,0
+Calidad,Edgar Villena,Peru,13/03/2023,3,19:00,18:54,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,13/03/2023,3,19:00,18:51,TEMPRANO,0
+TI,Luis Arias,Peru,13/03/2023,3,19:00,19:02,TARDE,2
+Calidad,Jose Quezada,Peru,13/03/2023,3,19:00,19:01,TARDE,1
+Calidad,Juan Ayala,Peru,13/03/2023,3,19:00,18:48,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,13/03/2023,3,20:00,19:50,TEMPRANO,0
+TI,Walter Arroyo,Colombia,14/03/2023,3,19:00,18:51,TEMPRANO,0
+Construccion,Boris Heredia,Chile,14/03/2023,3,19:00,18:53,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,14/03/2023,3,19:00,18:53,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,14/03/2023,3,19:00,18:58,A TIEMPO,0
+Proyectos,Gustavo Barboza,Peru,14/03/2023,3,19:00,18:50,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,14/03/2023,3,19:00,19:21,TARDE,21
+Construccion,Oscar Cardenas,Colombia,14/03/2023,3,19:00,19:10,TARDE,10
+Proyectos,Jose Tinajero,Mexico,14/03/2023,3,20:00,19:51,TEMPRANO,0
+Mantenimiento,Jhon Roman,Colombia,14/03/2023,3,19:00,18:56,A TIEMPO,0
+IA,Andres Villarroel,Chile,14/03/2023,3,19:00,18:35,TEMPRANO,0
+TI,Raul Cordova,Peru,14/03/2023,3,19:00,18:50,TEMPRANO,0
+Mineria,Marlon Montero,Peru,15/03/2023,3,19:00,19:01,TARDE,1
+Proyectos,Sofia Lopez,Colombia,15/03/2023,3,19:00,18:51,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,15/03/2023,3,19:00,18:51,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,15/03/2023,3,19:00,19:07,TARDE,7
+TI,Ericcson Castrellon,Venezuela,15/03/2023,3,19:00,19:01,TARDE,1
+TI,Raul Cordova,Peru,15/03/2023,3,19:00,19:06,TARDE,6
+TI,Walter Arroyo,Colombia,15/03/2023,3,19:00,18:55,A TIEMPO,0
+Calidad,Edgar Villena,Peru,15/03/2023,3,19:00,18:58,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,15/03/2023,3,19:00,18:55,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,15/03/2023,3,19:00,18:50,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,15/03/2023,3,19:00,18:40,TEMPRANO,0
+Construccion,Luis Alvarado,Chile,15/03/2023,3,19:00,19:04,TARDE,4
+Proyectos,Juan Ortega,Colombia,15/03/2023,3,19:00,19:02,TARDE,2
+Mantenimiento,Humberto Dulanto,Peru,16/03/2023,3,19:00,18:21,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,16/03/2023,3,19:00,19:03,TARDE,3
+TI,Raul Cordova,Peru,16/03/2023,3,19:00,19:19,TARDE,19
+Proyectos,Jose Tinajero,Mexico,16/03/2023,3,19:00,18:54,TEMPRANO,0
+TI,Walter Arroyo,Colombia,16/03/2023,3,19:00,18:52,TEMPRANO,0
+IA,Andres Villarroel,Chile,16/03/2023,3,19:00,18:55,A TIEMPO,0
+Calidad,Oscar Valentin,Peru,16/03/2023,3,19:00,18:45,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,16/03/2023,3,19:00,18:55,A TIEMPO,0
+Proyectos,Betzy Jaramillo,Colombia,16/03/2023,3,19:00,18:55,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,17/03/2023,3,19:00,18:55,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,17/03/2023,3,19:00,18:55,A TIEMPO,0
+TI,Walter Arroyo,Colombia,17/03/2023,3,19:00,19:09,TARDE,9
+TI,Walter Arroyo,Colombia,17/03/2023,3,19:00,19:05,TARDE,5
+Calidad,Edgar Villena,Peru,20/03/2023,3,19:00,18:52,TEMPRANO,0
+Calidad,Edgar Villena,Peru,20/03/2023,3,19:00,18:51,TEMPRANO,0
+TI,Luis Arias,Peru,20/03/2023,3,19:00,19:00,A TIEMPO,0
+Calidad,Jose Quezada,Peru,20/03/2023,3,19:00,18:15,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,20/03/2023,3,19:00,18:38,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,20/03/2023,3,20:00,19:52,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,21/03/2023,3,19:00,18:57,A TIEMPO,0
+TI,Walter Arroyo,Colombia,21/03/2023,3,19:00,18:55,A TIEMPO,0
+Construccion,Boris Heredia,Chile,21/03/2023,3,19:00,18:58,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,21/03/2023,3,19:00,18:59,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,21/03/2023,3,19:00,18:59,A TIEMPO,0
+Mantenimiento,Jhon Roman,Colombia,21/03/2023,3,19:00,18:57,A TIEMPO,0
+IA,Andres Villarroel,Chile,21/03/2023,3,19:00,18:42,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,21/03/2023,3,19:00,19:02,TARDE,2
+TI,Raul Cordova,Peru,21/03/2023,3,19:00,18:59,A TIEMPO,0
+Proyectos,Gustavo Barboza,Peru,21/03/2023,3,19:00,18:53,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,21/03/2023,3,20:00,19:52,TEMPRANO,0
+Calidad,Edgar Villena,Peru,22/03/2023,3,19:00,18:56,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,22/03/2023,3,19:00,18:54,TEMPRANO,0
+Construccion,Luis Alvarado,Chile,22/03/2023,3,19:00,19:01,TARDE,1
+Mineria,Marlon Montero,Peru,22/03/2023,3,19:00,19:14,TARDE,14
+Calidad,Juan Ayala,Peru,22/03/2023,3,19:00,18:57,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,22/03/2023,3,19:00,19:00,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,22/03/2023,3,19:00,18:55,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,22/03/2023,3,19:00,19:01,TARDE,1
+TI,Raul Cordova,Peru,22/03/2023,3,19:00,19:03,TARDE,3
+Proyectos,Jaime Ferro,Colombia,22/03/2023,3,19:00,18:57,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,23/03/2023,3,19:00,18:43,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,23/03/2023,3,19:00,18:54,TEMPRANO,0
+IA,Andres Villarroel,Chile,23/03/2023,3,19:00,18:53,TEMPRANO,0
+TI,Raul Cordova,Peru,23/03/2023,3,19:00,19:10,TARDE,10
+Calidad,Juan Ayala,Peru,23/03/2023,3,19:00,18:57,A TIEMPO,0
+TI,Walter Arroyo,Colombia,23/03/2023,3,19:00,18:56,A TIEMPO,0
+Mantenimiento,Humberto Dulanto,Peru,23/03/2023,3,19:00,18:38,TEMPRANO,0
+Calidad,Oscar Valentin,Peru,23/03/2023,3,19:00,18:37,TEMPRANO,0
+Proyectos,Betzy Jaramillo,Colombia,23/03/2023,3,19:00,18:41,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,23/03/2023,3,19:00,18:59,A TIEMPO,0
+TI,Walter Arroyo,Colombia,24/03/2023,3,19:00,18:53,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,24/03/2023,3,19:00,18:59,A TIEMPO,0
+Calidad,Edgar Villena,Peru,27/03/2023,3,19:00,18:56,A TIEMPO,0
+TI,Luis Arias,Peru,27/03/2023,3,19:00,18:59,A TIEMPO,0
+Calidad,Juan Ayala,Peru,27/03/2023,3,19:00,18:50,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,27/03/2023,3,20:00,19:52,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,27/03/2023,3,19:00,18:42,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,28/03/2023,3,19:00,19:00,A TIEMPO,0
+Construccion,Boris Heredia,Chile,28/03/2023,3,19:00,18:50,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,28/03/2023,3,19:00,18:59,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,28/03/2023,3,19:00,18:58,A TIEMPO,0
+Proyectos,Gustavo Barboza,Peru,28/03/2023,3,19:00,18:48,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,28/03/2023,3,19:00,19:03,TARDE,3
+Proyectos,Jose Tinajero,Mexico,28/03/2023,3,20:00,19:50,TEMPRANO,0
+Mantenimiento,Jhon Roman,Colombia,28/03/2023,3,19:00,18:54,TEMPRANO,0
+IA,Andres Villarroel,Chile,28/03/2023,3,19:00,18:53,TEMPRANO,0
+TI,Raul Cordova,Peru,28/03/2023,3,19:00,18:58,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,29/03/2023,3,19:00,18:59,A TIEMPO,0
+Calidad,Edgar Villena,Peru,29/03/2023,3,19:00,19:04,TARDE,4
+Proyectos,Jaime Ferro,Colombia,29/03/2023,3,19:00,18:58,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,29/03/2023,3,19:00,18:49,TEMPRANO,0
+Calidad,Juan Ayala,Peru,29/03/2023,3,19:00,18:52,TEMPRANO,0
+Proyectos,Alfredo Ugalde,Colombia,29/03/2023,3,19:00,18:54,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,29/03/2023,3,19:00,18:52,TEMPRANO,0
+TI,Ericcson Castrellon,Venezuela,29/03/2023,3,19:00,19:02,TARDE,2
+TI,Raul Cordova,Peru,29/03/2023,3,19:00,19:01,TARDE,1
+Calidad,Virginia Morales,Peru,30/03/2023,3,19:00,18:51,TEMPRANO,0
+TI,Walter Arroyo,Colombia,30/03/2023,3,19:00,18:58,A TIEMPO,0
+Calidad,Oscar Valentin,Peru,30/03/2023,3,19:00,18:39,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,30/03/2023,3,19:00,19:02,TARDE,2
+Proyectos,Gustavo Barboza,Peru,30/03/2023,3,19:00,18:51,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,30/03/2023,3,19:00,18:54,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,30/03/2023,3,19:00,18:45,TEMPRANO,0
+IA,Andres Villarroel,Chile,30/03/2023,3,19:00,18:56,A TIEMPO,0
+TI,Walter Arroyo,Colombia,31/03/2023,3,19:00,18:51,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,31/03/2023,3,19:00,18:53,TEMPRANO,0
+Calidad,Jose Quezada,Peru,31/03/2023,3,19:00,18:48,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,31/03/2023,3,19:00,18:59,A TIEMPO,0
+Calidad,Edgar Villena,Peru,03/04/2023,4,19:00,19:00,A TIEMPO,0
+TI,Luis Arias,Peru,03/04/2023,4,19:00,18:57,A TIEMPO,0
+Calidad,Jose Quezada,Peru,03/04/2023,4,19:00,19:03,TARDE,3
+Calidad,Juan Ayala,Peru,03/04/2023,4,19:00,18:58,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,03/04/2023,4,20:00,19:52,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,04/04/2023,4,19:00,19:00,A TIEMPO,0
+Construccion,Boris Heredia,Chile,04/04/2023,4,19:00,18:57,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,04/04/2023,4,19:00,18:57,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,04/04/2023,4,19:00,18:43,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,04/04/2023,4,20:00,19:54,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,04/04/2023,4,19:00,19:02,TARDE,2
+Construccion,Oscar Cardenas,Colombia,04/04/2023,4,19:00,18:57,A TIEMPO,0
+IA,Andres Villarroel,Chile,04/04/2023,4,19:00,18:55,A TIEMPO,0
+TI,Raul Cordova,Peru,04/04/2023,4,19:00,19:01,TARDE,1
+Calidad,Juan Ayala,Peru,05/04/2023,4,19:00,19:03,TARDE,3
+Proyectos,Alfredo Ugalde,Colombia,05/04/2023,4,19:00,18:53,TEMPRANO,0
+IA,Andres Villarroel,Chile,05/04/2023,4,19:00,19:01,TARDE,1
+TI,Raul Cordova,Peru,05/04/2023,4,19:00,18:59,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,05/04/2023,4,19:00,18:56,A TIEMPO,0
+Calidad,Edgar Villena,Peru,05/04/2023,4,19:00,18:57,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,05/04/2023,4,19:00,18:58,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,05/04/2023,4,19:00,19:03,TARDE,3
+TI,Walter Arroyo,Colombia,05/04/2023,4,19:00,18:59,A TIEMPO,0
+Calidad,Edgar Villena,Peru,10/04/2023,4,19:00,18:54,TEMPRANO,0
+TI,Luis Arias,Peru,10/04/2023,4,19:00,18:57,A TIEMPO,0
+Calidad,Juan Ayala,Peru,10/04/2023,4,19:00,18:47,TEMPRANO,0
+Calidad,Jose Quezada,Peru,10/04/2023,4,19:00,19:03,TARDE,3
+Proyectos,Jose Tinajero,Mexico,10/04/2023,4,20:00,19:51,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,10/04/2023,4,19:00,18:53,TEMPRANO,0
+Proyectos,Edgar Villena,Peru,11/04/2023,4,19:00,18:59,A TIEMPO,0
+IA,Andres Villarroel,Chile,11/04/2023,4,19:00,18:46,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,11/04/2023,4,19:00,18:55,A TIEMPO,0
+TI,Raul Cordova,Peru,11/04/2023,4,19:00,19:02,TARDE,2
+Construccion,Boris Heredia,Chile,11/04/2023,4,19:00,19:09,TARDE,9
+Proyectos,Alfredo Ugalde,Colombia,11/04/2023,4,19:00,18:55,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,11/04/2023,4,19:00,18:43,TEMPRANO,0
+Proyectos,Gustavo Barboza,Peru,11/04/2023,4,19:00,18:49,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,11/04/2023,4,19:00,19:03,TARDE,3
+Mantenimiento,Jhon Roman,Colombia,11/04/2023,4,19:00,18:55,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,11/04/2023,4,19:00,19:00,A TIEMPO,0
+Calidad,Edgar Villena,Peru,12/04/2023,4,19:00,19:01,TARDE,1
+Proyectos,Nestor Rodriguez,Colombia,12/04/2023,4,19:00,18:56,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,12/04/2023,4,19:00,18:54,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,12/04/2023,4,19:00,18:34,TEMPRANO,0
+TI,Ericcson Castrellon,Venezuela,12/04/2023,4,19:00,19:02,TARDE,2
+Calidad,Juan Ayala,Peru,12/04/2023,4,19:00,18:54,TEMPRANO,0
+TI,Raul Cordova,Peru,12/04/2023,4,19:00,19:04,TARDE,4
+Proyectos,Alfredo Ugalde,Colombia,12/04/2023,4,19:00,18:48,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,12/04/2023,4,19:00,19:00,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,12/04/2023,4,19:00,19:01,TARDE,1
+Calidad,Gina Dominguez,Peru,12/04/2023,4,19:00,18:51,TEMPRANO,0
+IA,Andres Villarroel,Chile,13/04/2023,4,19:00,19:05,TARDE,5
+Calidad,Oscar Valentin,Peru,13/04/2023,4,19:00,18:39,TEMPRANO,0
+TI,Walter Arroyo,Colombia,13/04/2023,4,19:00,19:09,TARDE,9
+Calidad,Virginia Morales,Peru,13/04/2023,4,19:00,18:54,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,13/04/2023,4,19:00,18:55,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,13/04/2023,4,19:00,19:03,TARDE,3
+Proyectos,Gustavo Barboza,Peru,13/04/2023,4,19:00,18:46,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,13/04/2023,4,19:00,18:55,A TIEMPO,0
+Calidad,Jose Quezada,Peru,13/04/2023,4,19:00,19:02,TARDE,2
+Calidad,Jose Quezada,Peru,14/04/2023,4,19:00,19:02,TARDE,2
+Proyectos,Jaime Ferro,Colombia,14/04/2023,4,19:00,19:00,A TIEMPO,0
+Calidad,Edgar Villena,Peru,17/04/2023,4,19:00,19:02,TARDE,2
+Calidad,Jaime Yanez,Peru,17/04/2023,4,19:00,18:47,TEMPRANO,0
+TI,Luis Arias,Peru,17/04/2023,4,19:00,18:59,A TIEMPO,0
+Calidad,Juan Ayala,Peru,17/04/2023,4,19:00,18:53,TEMPRANO,0
+Calidad,Jose Quezada,Peru,17/04/2023,4,19:00,19:02,TARDE,2
+Calidad,Gina Dominguez,Peru,17/04/2023,4,19:00,18:52,TEMPRANO,0
+TI,Freddy Jimenez,Venezuela,17/04/2023,4,19:00,18:52,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,17/04/2023,4,20:00,19:52,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,18/04/2023,4,19:00,18:54,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,18/04/2023,4,19:00,18:54,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,18/04/2023,4,19:00,18:55,A TIEMPO,0
+Construccion,Boris Heredia,Chile,18/04/2023,4,19:00,18:58,A TIEMPO,0
+TI,Walter Arroyo,Colombia,18/04/2023,4,19:00,18:59,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,18/04/2023,4,19:00,18:52,TEMPRANO,0
+IA,Andres Villarroel,Chile,18/04/2023,4,19:00,18:49,TEMPRANO,0
+Calidad,Juan Ayala,Peru,18/04/2023,4,19:00,18:51,TEMPRANO,0
+Proyectos,Gustavo Barboza,Peru,18/04/2023,4,19:00,18:51,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,18/04/2023,4,19:00,19:02,TARDE,2
+Construccion,Oscar Cardenas,Colombia,18/04/2023,4,19:00,19:00,A TIEMPO,0
+Mantenimiento,Jhon Roman,Colombia,18/04/2023,4,19:00,18:51,TEMPRANO,0
+TI,Raul Cordova,Peru,18/04/2023,4,19:00,19:02,TARDE,2
+Proyectos,Edgar Villena,Peru,18/04/2023,4,19:00,18:59,A TIEMPO,0
+Calidad,Edgar Villena,Peru,19/04/2023,4,19:00,19:00,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,19/04/2023,4,19:00,19:02,TARDE,2
+Calidad,Jaime Yanez,Peru,19/04/2023,4,19:00,18:48,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,19/04/2023,4,19:00,18:56,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,19/04/2023,4,19:00,19:02,TARDE,2
+Proyectos,Diego Delgadillo,Bolivia,19/04/2023,4,19:00,18:47,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,19/04/2023,4,19:00,19:01,TARDE,1
+TI,Ericcson Castrellon,Venezuela,19/04/2023,4,19:00,19:02,TARDE,2
+Calidad,Juan Ayala,Peru,19/04/2023,4,19:00,18:49,TEMPRANO,0
+TI,Raul Cordova,Peru,19/04/2023,4,19:00,19:12,TARDE,12
+Proyectos,Alfredo Ugalde,Colombia,19/04/2023,4,19:00,18:52,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,19/04/2023,4,19:00,18:55,A TIEMPO,0
+Calidad,Virginia Morales,Peru,20/04/2023,4,19:00,18:55,A TIEMPO,0
+TI,Walter Arroyo,Colombia,20/04/2023,4,19:00,18:59,A TIEMPO,0
+Calidad,Oscar Valentin,Peru,20/04/2023,4,19:00,18:45,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,20/04/2023,4,19:00,18:57,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,20/04/2023,4,19:00,18:50,TEMPRANO,0
+Proyectos,Edgar Villena,Peru,20/04/2023,4,19:00,19:03,TARDE,3
+IA,Andres Villarroel,Chile,20/04/2023,4,19:00,18:49,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,20/04/2023,4,19:00,18:52,TEMPRANO,0
+Calidad,Jose Quezada,Peru,20/04/2023,4,19:00,19:00,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,20/04/2023,4,19:00,18:54,TEMPRANO,0
+Calidad,Jose Quezada,Peru,21/04/2023,4,19:00,19:01,TARDE,1
+Proyectos,Diego Delgadillo,Bolivia,21/04/2023,4,19:00,18:37,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,21/04/2023,4,19:00,18:59,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,21/04/2023,4,19:00,19:03,TARDE,3
+Calidad,Edgar Villena,Peru,24/04/2023,4,19:00,18:59,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,24/04/2023,4,19:00,18:59,A TIEMPO,0
+TI,Luis Arias,Peru,24/04/2023,4,19:00,19:01,TARDE,1
+TI,Richard Gonzalez,Colombia,24/04/2023,4,19:00,18:49,TEMPRANO,0
+Calidad,Juan Ayala,Peru,24/04/2023,4,19:00,18:57,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,24/04/2023,4,19:00,18:51,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,24/04/2023,4,19:00,18:51,TEMPRANO,0
+Calidad,Jose Quezada,Peru,24/04/2023,4,19:00,19:03,TARDE,3
+Proyectos,Jose Tinajero,Mexico,24/04/2023,4,20:00,19:53,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,25/04/2023,4,19:00,18:57,A TIEMPO,0
+Construccion,Boris Heredia,Chile,25/04/2023,4,19:00,18:54,TEMPRANO,0
+TI,Walter Arroyo,Colombia,25/04/2023,4,19:00,18:59,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,25/04/2023,4,19:00,19:14,TARDE,14
+Calidad,Juan Ayala,Peru,25/04/2023,4,19:00,18:51,TEMPRANO,0
+IA,Andres Villarroel,Chile,25/04/2023,4,19:00,18:56,A TIEMPO,0
+Proyectos,Gustavo Barboza,Peru,25/04/2023,4,19:00,18:49,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,25/04/2023,4,19:00,18:58,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,25/04/2023,4,19:00,19:05,TARDE,5
+Proyectos,Edgar Villena,Peru,25/04/2023,4,19:00,19:01,TARDE,1
+Calidad,Gina Dominguez,Peru,25/04/2023,4,19:00,18:54,TEMPRANO,0
+TI,Raul Cordova,Peru,25/04/2023,4,19:00,18:56,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,25/04/2023,4,19:00,19:02,TARDE,2
+Proyectos,Nestor Rodriguez,Colombia,26/04/2023,4,19:00,18:54,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,26/04/2023,4,19:00,18:55,A TIEMPO,0
+TI,Raul Cordova,Peru,26/04/2023,4,19:00,18:59,A TIEMPO,0
+Calidad,Juan Ayala,Peru,26/04/2023,4,19:00,18:48,TEMPRANO,0
+Calidad,Edgar Villena,Peru,26/04/2023,4,19:00,19:01,TARDE,1
+TI,Ericcson Castrellon,Venezuela,26/04/2023,4,19:00,19:01,TARDE,1
+Proyectos,Jaime Ferro,Colombia,26/04/2023,4,19:00,18:57,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,26/04/2023,4,19:00,18:41,TEMPRANO,0
+TI,Luis Arias,Peru,26/04/2023,4,19:00,19:01,TARDE,1
+Proyectos,Cesar Ramirez,Colombia,26/04/2023,4,19:00,18:59,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,26/04/2023,4,19:00,19:04,TARDE,4
+Calidad,Virginia Morales,Peru,27/04/2023,4,19:00,18:56,A TIEMPO,0
+Calidad,Oscar Valentin,Peru,27/04/2023,4,19:00,18:55,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,27/04/2023,4,19:00,18:57,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,27/04/2023,4,19:00,18:50,TEMPRANO,0
+IA,Andres Villarroel,Chile,27/04/2023,4,19:00,18:40,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,27/04/2023,4,19:00,18:59,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,27/04/2023,4,19:00,19:02,TARDE,2
+Proyectos,Edgar Villena,Peru,27/04/2023,4,19:00,18:58,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,27/04/2023,4,19:00,18:58,A TIEMPO,0
+Calidad,Jose Quezada,Peru,27/04/2023,4,19:00,19:05,TARDE,5
+Calidad,Jose Quezada,Peru,28/04/2023,4,19:00,18:59,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,28/04/2023,4,19:00,18:45,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,28/04/2023,4,19:00,18:59,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,28/04/2023,4,19:00,19:01,TARDE,1
+TI,Walter Arroyo,Colombia,28/04/2023,4,19:00,18:57,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,28/04/2023,4,20:00,19:54,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,02/05/2023,5,19:00,18:58,A TIEMPO,0
+Construccion,Boris Heredia,Chile,02/05/2023,5,19:00,19:00,A TIEMPO,0
+TI,Walter Arroyo,Colombia,02/05/2023,5,19:00,18:52,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,02/05/2023,5,19:00,19:01,TARDE,1
+IA,Andres Villarroel,Chile,02/05/2023,5,19:00,18:54,TEMPRANO,0
+Calidad,Juan Ayala,Peru,02/05/2023,5,19:00,18:57,A TIEMPO,0
+Proyectos,Gustavo Barboza,Peru,02/05/2023,5,19:00,18:32,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,02/05/2023,5,19:00,18:57,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,02/05/2023,5,19:00,19:00,A TIEMPO,0
+Proyectos,Edgar Villena,Peru,02/05/2023,5,19:00,18:56,A TIEMPO,0
+TI,Raul Cordova,Peru,02/05/2023,5,19:00,19:14,TARDE,14
+Construccion,Luis Alvarado,Chile,02/05/2023,5,19:00,18:59,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,03/05/2023,5,19:00,18:55,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,03/05/2023,5,19:00,18:50,TEMPRANO,0
+Construccion,Boris Heredia,Chile,03/05/2023,5,19:00,18:56,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,03/05/2023,5,19:00,19:04,TARDE,4
+TI,Raul Cordova,Peru,03/05/2023,5,19:00,19:05,TARDE,5
+Proyectos,Nestor Rodriguez,Colombia,03/05/2023,5,19:00,18:58,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,03/05/2023,5,19:00,19:00,A TIEMPO,0
+Calidad,Oscar Valentin,Peru,04/05/2023,5,19:00,19:04,TARDE,4
+Proyectos,Jaime Ferro,Colombia,04/05/2023,5,19:00,18:56,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,04/05/2023,5,19:00,18:49,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,04/05/2023,5,19:00,18:56,A TIEMPO,0
+Calidad,Jose Quezada,Peru,04/05/2023,5,19:00,19:02,TARDE,2
+Proyectos,Edgar Villena,Peru,04/05/2023,5,19:00,18:57,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,04/05/2023,5,19:00,19:02,TARDE,2
+Calidad,Jose Quezada,Peru,05/05/2023,5,19:00,18:49,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,05/05/2023,5,19:00,18:56,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,05/05/2023,5,19:00,19:00,A TIEMPO,0
+TI,Walter Arroyo,Colombia,05/05/2023,5,19:00,18:52,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,05/05/2023,5,20:00,19:51,TEMPRANO,0
+TI,Richard Gonzalez,Colombia,08/05/2023,5,19:00,19:08,TARDE,8
+TI,Freddy Jimenez,Venezuela,08/05/2023,5,19:00,18:53,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,08/05/2023,5,19:00,18:54,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,08/05/2023,5,19:00,18:48,TEMPRANO,0
+Calidad,Jose Quezada,Peru,08/05/2023,5,19:00,19:02,TARDE,2
+Proyectos,Sofia Lopez,Colombia,08/05/2023,5,20:00,19:54,TEMPRANO,0
+Calidad,Juan Ayala,Peru,08/05/2023,5,19:00,18:58,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,09/05/2023,5,19:00,18:54,TEMPRANO,0
+Construccion,Boris Heredia,Chile,09/05/2023,5,19:00,18:45,TEMPRANO,0
+TI,Walter Arroyo,Colombia,09/05/2023,5,19:00,18:54,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,09/05/2023,5,19:00,19:02,TARDE,2
+Calidad,Juan Ayala,Peru,09/05/2023,5,19:00,18:51,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,09/05/2023,5,19:00,19:00,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,09/05/2023,5,19:00,18:58,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,09/05/2023,5,19:00,19:04,TARDE,4
+Proyectos,Jaime Ferro,Colombia,10/05/2023,5,19:00,18:57,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,10/05/2023,5,19:00,19:00,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,10/05/2023,5,19:00,18:56,A TIEMPO,0
+Construccion,Boris Heredia,Chile,10/05/2023,5,19:00,18:49,TEMPRANO,0
+TI,Ericcson Castrellon,Venezuela,10/05/2023,5,19:00,19:01,TARDE,1
+Proyectos,Nestor Rodriguez,Colombia,10/05/2023,5,19:00,18:56,A TIEMPO,0
+Calidad,Juan Ayala,Peru,10/05/2023,5,19:00,18:57,A TIEMPO,0
+TI,Raul Cordova,Peru,10/05/2023,5,19:00,19:00,A TIEMPO,0
+Calidad,Jorge Ponce,Peru,11/05/2023,5,19:00,18:55,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,11/05/2023,5,19:00,18:56,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,11/05/2023,5,19:00,19:01,TARDE,1
+Proyectos,Jose Tinajero,Mexico,11/05/2023,5,19:00,18:55,A TIEMPO,0
+Proyectos,Edgar Villena,Peru,11/05/2023,5,19:00,18:58,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,11/05/2023,5,19:00,19:04,TARDE,4
+Proyectos,Jaime Ferro,Colombia,12/05/2023,5,19:00,18:56,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,12/05/2023,5,19:00,19:01,TARDE,1
+TI,Walter Arroyo,Colombia,12/05/2023,5,19:00,18:56,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,12/05/2023,5,20:00,19:53,TEMPRANO,0
+Calidad,Edgar Villena,Peru,15/05/2023,5,19:00,18:54,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,15/05/2023,5,19:00,18:30,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,15/05/2023,5,19:00,18:39,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,15/05/2023,5,20:00,19:55,A TIEMPO,0
+Calidad,Juan Ayala,Peru,15/05/2023,5,19:00,18:56,A TIEMPO,0
+TI,Freddy Jimenez,Venezuela,15/05/2023,5,19:00,18:50,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,15/05/2023,5,19:00,18:55,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,15/05/2023,5,19:00,18:57,A TIEMPO,0
+Calidad,Giovanni Cajas,Colombia,15/05/2023,5,19:00,18:52,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,16/05/2023,5,19:00,18:54,TEMPRANO,0
+Construccion,Boris Heredia,Chile,16/05/2023,5,19:00,18:50,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,16/05/2023,5,19:00,18:58,A TIEMPO,0
+TI,Walter Arroyo,Colombia,16/05/2023,5,19:00,18:54,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,16/05/2023,5,19:00,18:59,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,16/05/2023,5,19:00,18:54,TEMPRANO,0
+Proyectos,Edgar Villena,Peru,16/05/2023,5,19:00,19:00,A TIEMPO,0
+Calidad,Juan Ayala,Peru,16/05/2023,5,19:00,18:58,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,16/05/2023,5,19:00,19:00,A TIEMPO,0
+Calidad,Edgar Villena,Peru,17/05/2023,5,19:00,18:58,A TIEMPO,0
+Construccion,Boris Heredia,Chile,17/05/2023,5,19:00,18:58,A TIEMPO,0
+TI,Raul Cordova,Peru,17/05/2023,5,19:00,18:59,A TIEMPO,0
+Calidad,Juan Ayala,Peru,17/05/2023,5,19:00,18:52,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,17/05/2023,5,19:00,19:02,TARDE,2
+Calidad,Giovanni Cajas,Colombia,17/05/2023,5,19:00,18:59,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,17/05/2023,5,19:00,18:50,TEMPRANO,0
+Calidad,Jorge Ponce,Peru,18/05/2023,5,19:00,18:57,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,18/05/2023,5,19:00,18:57,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,18/05/2023,5,19:00,19:01,TARDE,1
+Proyectos,Jose Tinajero,Mexico,18/05/2023,5,19:00,18:51,TEMPRANO,0
+Proyectos,Edgar Villena,Peru,18/05/2023,5,19:00,18:56,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,18/05/2023,5,19:00,18:46,TEMPRANO,0
+TI,Ericcson Castrellon,Venezuela,18/05/2023,5,19:00,19:03,TARDE,3
+Calidad,Mauricio Amezquita,Colombia,19/05/2023,5,19:00,18:53,TEMPRANO,0
+TI,Walter Arroyo,Colombia,19/05/2023,5,19:00,18:54,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,19/05/2023,5,19:00,18:55,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,19/05/2023,5,19:00,19:03,TARDE,3
+Proyectos,Jose Tinajero,Mexico,19/05/2023,5,20:00,19:50,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,22/05/2023,5,19:00,18:59,A TIEMPO,0
+Calidad,Giovanni Cajas,Colombia,22/05/2023,5,19:00,18:29,TEMPRANO,0
+TI,Freddy Jimenez,Venezuela,22/05/2023,5,19:00,19:01,TARDE,1
+Calidad,Juan Ayala,Peru,22/05/2023,5,19:00,19:00,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,22/05/2023,5,19:00,18:55,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,22/05/2023,5,19:00,18:36,TEMPRANO,0
+TI,Richard Gonzalez,Colombia,22/05/2023,5,19:00,18:49,TEMPRANO,0
+Calidad,Edgar Villena,Peru,22/05/2023,5,19:00,19:00,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,22/05/2023,5,20:00,19:56,A TIEMPO,0
+Mantenimiento,Jhon Roman,Colombia,23/05/2023,5,19:00,18:53,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,23/05/2023,5,19:00,19:03,TARDE,3
+Construccion,Milena Cardenas,Colombia,23/05/2023,5,19:00,18:58,A TIEMPO,0
+Proyectos,Edgar Villena,Peru,23/05/2023,5,19:00,19:00,A TIEMPO,0
+Mantenimiento,William Lopez,Peru,23/05/2023,5,19:00,19:00,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,23/05/2023,5,19:00,19:02,TARDE,2
+Construccion,Sofia Lopez,Colombia,23/05/2023,5,19:00,18:58,A TIEMPO,0
+Construccion,Boris Heredia,Chile,23/05/2023,5,19:00,19:00,A TIEMPO,0
+TI,Walter Arroyo,Colombia,23/05/2023,5,19:00,18:46,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,23/05/2023,5,19:00,18:58,A TIEMPO,0
+Calidad,Virginia Morales,Peru,23/05/2023,5,19:00,18:56,A TIEMPO,0
+Calidad,Juan Ayala,Peru,24/05/2023,5,19:00,18:59,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,24/05/2023,5,19:00,19:00,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,24/05/2023,5,19:00,18:52,TEMPRANO,0
+Calidad,Giovanni Cajas,Colombia,24/05/2023,5,19:00,18:27,TEMPRANO,0
+Calidad,Edgar Villena,Peru,24/05/2023,5,19:00,19:03,TARDE,3
+Proyectos,Jaime Ferro,Colombia,24/05/2023,5,19:00,18:58,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,24/05/2023,5,19:00,18:58,A TIEMPO,0
+Construccion,Boris Heredia,Chile,24/05/2023,5,19:00,19:00,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,24/05/2023,5,19:00,18:55,A TIEMPO,0
+TI,Raul Cordova,Peru,24/05/2023,5,19:00,18:59,A TIEMPO,0
+Calidad,Jorge Ponce,Peru,25/05/2023,5,19:00,19:01,TARDE,1
+Proyectos,Alfredo Ugalde,Colombia,25/05/2023,5,19:00,18:55,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,25/05/2023,5,19:00,19:01,TARDE,1
+Proyectos,Jose Tinajero,Mexico,25/05/2023,5,19:00,18:51,TEMPRANO,0
+Proyectos,Edgar Villena,Peru,25/05/2023,5,19:00,18:59,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,25/05/2023,5,19:00,18:55,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,25/05/2023,5,19:00,19:05,TARDE,5
+TI,Raul Cordova,Peru,25/05/2023,5,19:00,18:59,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,25/05/2023,5,19:00,18:56,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,25/05/2023,5,19:00,18:56,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,26/05/2023,5,19:00,18:45,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,26/05/2023,5,19:00,18:58,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,26/05/2023,5,19:00,19:01,TARDE,1
+Calidad,Pedro Ordonez,Peru,26/05/2023,5,19:00,18:49,TEMPRANO,0
+TI,Walter Arroyo,Colombia,26/05/2023,5,19:00,18:56,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,26/05/2023,5,20:00,19:52,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,29/05/2023,5,19:00,18:56,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,29/05/2023,5,19:00,18:52,TEMPRANO,0
+Calidad,Edgar Villena,Peru,29/05/2023,5,19:00,19:01,TARDE,1
+Calidad,Jaime Yanez,Peru,29/05/2023,5,19:00,18:52,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,29/05/2023,5,19:00,18:57,A TIEMPO,0
+TI,Freddy Jimenez,Venezuela,29/05/2023,5,19:00,18:52,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,29/05/2023,5,20:00,19:56,A TIEMPO,0
+Calidad,Virginia Morales,Peru,30/05/2023,5,19:00,18:51,TEMPRANO,0
+Construccion,Luis Alvarado,Chile,30/05/2023,5,19:00,18:59,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,30/05/2023,5,19:00,18:30,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,30/05/2023,5,19:00,19:02,TARDE,2
+Mantenimiento,William Lopez,Peru,30/05/2023,5,19:00,18:59,A TIEMPO,0
+TI,Walter Arroyo,Colombia,30/05/2023,5,19:00,19:05,TARDE,5
+TI,Walter Arroyo,Colombia,30/05/2023,5,19:00,18:52,TEMPRANO,0
+Proyectos,Edgar Villena,Peru,30/05/2023,5,19:00,18:58,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,30/05/2023,5,19:00,19:00,A TIEMPO,0
+Calidad,Giovanni Cajas,Colombia,30/05/2023,5,19:00,18:38,TEMPRANO,0
+Mantenimiento,Jhon Roman,Colombia,30/05/2023,5,19:00,18:53,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,30/05/2023,5,19:00,18:59,A TIEMPO,0
+Calidad,Edgar Villena,Peru,31/05/2023,5,19:00,19:02,TARDE,2
+Construccion,Boris Heredia,Chile,31/05/2023,5,19:00,19:04,TARDE,4
+Proyectos,Jaime Ferro,Colombia,31/05/2023,5,19:00,18:54,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,31/05/2023,5,19:00,18:59,A TIEMPO,0
+TI,Raul Cordova,Peru,31/05/2023,5,19:00,19:00,A TIEMPO,0
+TI,Sebastian Zapata,Colombia,31/05/2023,5,19:00,18:54,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,31/05/2023,5,19:00,18:54,TEMPRANO,0
+Calidad,Giovanni Cajas,Colombia,31/05/2023,5,19:00,18:58,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,31/05/2023,5,19:00,18:59,A TIEMPO,0
+Calidad,Jorge Ponce,Peru,01/06/2023,6,19:00,19:02,TARDE,2
+Proyectos,Diego Delgadillo,Bolivia,01/06/2023,6,19:00,19:13,TARDE,13
+Proyectos,Alfredo Ugalde,Colombia,01/06/2023,6,19:00,18:46,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,01/06/2023,6,19:00,18:55,A TIEMPO,0
+Proyectos,Edgar Villena,Peru,01/06/2023,6,19:00,19:00,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,01/06/2023,6,19:00,18:59,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,01/06/2023,6,19:00,18:58,A TIEMPO,0
+TI,Raul Cordova,Peru,01/06/2023,6,19:00,18:59,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,01/06/2023,6,19:00,19:04,TARDE,4
+Calidad,Mauricio Amezquita,Colombia,01/06/2023,6,19:00,18:49,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,02/06/2023,6,19:00,19:04,TARDE,4
+TI,Walter Arroyo,Colombia,02/06/2023,6,19:00,18:58,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,02/06/2023,6,20:00,19:50,TEMPRANO,0
+Calidad,Pedro Ordonez,Peru,02/06/2023,6,19:00,18:47,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,02/06/2023,6,19:00,18:53,TEMPRANO,0
+Proyectos,Alfredo Ugalde,Colombia,02/06/2023,6,19:00,19:00,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,02/06/2023,6,19:00,18:57,A TIEMPO,0
+Calidad,Edgar Villena,Peru,05/06/2023,6,19:00,19:02,TARDE,2
+Calidad,Gina Dominguez,Peru,05/06/2023,6,19:00,18:54,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,05/06/2023,6,20:00,19:57,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,05/06/2023,6,19:00,18:46,TEMPRANO,0
+TI,Freddy Jimenez,Venezuela,05/06/2023,6,19:00,18:57,A TIEMPO,0
+Calidad,Virginia Morales,Peru,06/06/2023,6,19:00,18:53,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,06/06/2023,6,19:00,18:58,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,06/06/2023,6,19:00,18:56,A TIEMPO,0
+TI,Walter Arroyo,Colombia,06/06/2023,6,19:00,18:54,TEMPRANO,0
+Mantenimiento,Jhon Roman,Colombia,06/06/2023,6,19:00,18:55,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,06/06/2023,6,19:00,19:02,TARDE,2
+Construccion,Luis Alvarado,Chile,06/06/2023,6,19:00,19:05,TARDE,5
+Proyectos,Diego Delgadillo,Bolivia,06/06/2023,6,19:00,19:01,TARDE,1
+Calidad,Giovanni Cajas,Colombia,07/06/2023,6,19:00,18:58,A TIEMPO,0
+Calidad,Edgar Villena,Peru,07/06/2023,6,19:00,19:00,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,07/06/2023,6,19:00,18:58,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,08/06/2023,6,19:00,18:58,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,08/06/2023,6,19:00,18:58,A TIEMPO,0
+TI,Raul Cordova,Peru,08/06/2023,6,19:00,18:58,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,08/06/2023,6,19:00,19:03,TARDE,3
+Calidad,Mauricio Amezquita,Colombia,08/06/2023,6,19:00,18:52,TEMPRANO,0
+Calidad,Jorge Ponce,Peru,08/06/2023,6,19:00,18:57,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,08/06/2023,6,19:00,19:04,TARDE,4
+Proyectos,Alfredo Ugalde,Colombia,08/06/2023,6,19:00,18:52,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,09/06/2023,6,19:00,19:02,TARDE,2
+Proyectos,Jaime Ferro,Colombia,09/06/2023,6,19:00,18:59,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,09/06/2023,6,19:00,18:54,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,09/06/2023,6,19:00,18:54,TEMPRANO,0
+Calidad,Juan Ayala,Peru,09/06/2023,6,19:00,18:49,TEMPRANO,0
+TI,Walter Arroyo,Colombia,09/06/2023,6,19:00,18:57,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,09/06/2023,6,20:00,19:58,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,12/06/2023,6,20:00,19:57,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,12/06/2023,6,19:00,18:50,TEMPRANO,0
+TI,Freddy Jimenez,Venezuela,12/06/2023,6,19:00,18:56,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,12/06/2023,6,19:00,18:41,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,12/06/2023,6,19:00,18:55,A TIEMPO,0
+Calidad,Juan Ayala,Peru,12/06/2023,6,19:00,19:06,TARDE,6
+Calidad,Jose Quezada,Peru,12/06/2023,6,19:00,18:57,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,12/06/2023,6,19:00,18:54,TEMPRANO,0
+Calidad,Giovanni Cajas,Colombia,12/06/2023,6,19:00,18:53,TEMPRANO,0
+Calidad,Virginia Morales,Peru,13/06/2023,6,19:00,18:54,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,13/06/2023,6,19:00,18:57,A TIEMPO,0
+TI,Walter Arroyo,Colombia,13/06/2023,6,19:00,18:55,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,13/06/2023,6,19:00,18:55,A TIEMPO,0
+Mantenimiento,Jhon Roman,Colombia,13/06/2023,6,19:00,18:53,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,13/06/2023,6,19:00,19:01,TARDE,1
+Mantenimiento,William Lopez,Peru,13/06/2023,6,19:00,18:58,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,13/06/2023,6,19:00,19:01,TARDE,1
+Calidad,Mauricio Amezquita,Colombia,14/06/2023,6,19:00,18:49,TEMPRANO,0
+Calidad,Edgar Villena,Peru,14/06/2023,6,19:00,18:57,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,14/06/2023,6,19:00,18:48,TEMPRANO,0
+Construccion,Boris Heredia,Chile,14/06/2023,6,19:00,18:57,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,14/06/2023,6,19:00,18:58,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,14/06/2023,6,19:00,18:55,A TIEMPO,0
+Calidad,Juan Ayala,Peru,14/06/2023,6,19:00,19:03,TARDE,3
+TI,Sebastian Zapata,Colombia,14/06/2023,6,19:00,18:56,A TIEMPO,0
+Calidad,Giovanni Cajas,Colombia,14/06/2023,6,19:00,18:59,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,14/06/2023,6,19:00,19:03,TARDE,3
+Proyectos,Alfredo Ugalde,Colombia,15/06/2023,6,19:00,18:57,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,15/06/2023,6,19:00,18:33,TEMPRANO,0
+Calidad,Jorge Ponce,Peru,15/06/2023,6,19:00,19:00,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,15/06/2023,6,19:00,18:47,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,15/06/2023,6,19:00,19:00,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,15/06/2023,6,19:00,18:57,A TIEMPO,0
+TI,Raul Cordova,Peru,15/06/2023,6,19:00,19:03,TARDE,3
+TI,Ericcson Castrellon,Venezuela,15/06/2023,6,19:00,19:06,TARDE,6
+Calidad,Juan Ayala,Peru,16/06/2023,6,19:00,19:01,TARDE,1
+Proyectos,Jose Tinajero,Mexico,16/06/2023,6,20:00,19:57,A TIEMPO,0
+TI,Walter Arroyo,Colombia,16/06/2023,6,19:00,18:50,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,16/06/2023,6,19:00,19:01,TARDE,1
+Proyectos,Jaime Ferro,Colombia,16/06/2023,6,19:00,18:56,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,16/06/2023,6,19:00,18:54,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,16/06/2023,6,19:00,18:40,TEMPRANO,0
+Calidad,Edgar Villena,Peru,19/06/2023,6,19:00,19:00,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,19/06/2023,6,19:00,18:50,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,19/06/2023,6,19:00,18:57,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,19/06/2023,6,19:00,19:03,TARDE,3
+TI,Freddy Jimenez,Venezuela,19/06/2023,6,19:00,19:00,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,19/06/2023,6,20:00,19:55,A TIEMPO,0
+Calidad,Juan Ayala,Peru,19/06/2023,6,19:00,19:00,A TIEMPO,0
+Calidad,Giovanni Cajas,Colombia,19/06/2023,6,19:00,18:54,TEMPRANO,0
+TI,Richard Gonzalez,Colombia,19/06/2023,6,19:00,18:54,TEMPRANO,0
+Mantenimiento,Jhon Roman,Colombia,20/06/2023,6,19:00,18:56,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,20/06/2023,6,19:00,19:02,TARDE,2
+Mantenimiento,William Lopez,Peru,20/06/2023,6,19:00,19:01,TARDE,1
+Construccion,Luis Alvarado,Chile,20/06/2023,6,19:00,19:06,TARDE,6
+Construccion,Sofia Lopez,Colombia,20/06/2023,6,19:00,18:55,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,20/06/2023,6,19:00,18:58,A TIEMPO,0
+TI,Walter Arroyo,Colombia,20/06/2023,6,19:00,19:03,TARDE,3
+Calidad,Edgar Villena,Peru,21/06/2023,6,19:00,18:59,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,21/06/2023,6,19:00,18:47,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,21/06/2023,6,19:00,18:55,A TIEMPO,0
+Construccion,Boris Heredia,Chile,21/06/2023,6,19:00,18:57,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,21/06/2023,6,19:00,18:58,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,21/06/2023,6,19:00,18:52,TEMPRANO,0
+Calidad,Juan Ayala,Peru,21/06/2023,6,19:00,18:45,TEMPRANO,0
+TI,Sebastian Zapata,Colombia,21/06/2023,6,19:00,18:57,A TIEMPO,0
+Calidad,Giovanni Cajas,Colombia,21/06/2023,6,19:00,18:55,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,21/06/2023,6,19:00,19:01,TARDE,1
+Calidad,Jorge Ponce,Peru,22/06/2023,6,19:00,18:55,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,22/06/2023,6,19:00,18:58,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,22/06/2023,6,19:00,18:57,A TIEMPO,0
+TI,Raul Cordova,Peru,22/06/2023,6,19:00,19:06,TARDE,6
+Proyectos,Alfredo Ugalde,Colombia,22/06/2023,6,19:00,18:53,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,22/06/2023,6,19:00,18:56,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,23/06/2023,6,19:00,18:49,TEMPRANO,0
+Mineria,Aldo Mora,Chile,23/06/2023,6,19:00,18:44,TEMPRANO,0
+TI,Walter Arroyo,Colombia,23/06/2023,6,19:00,19:03,TARDE,3
+Proyectos,Juan Ortega,Colombia,23/06/2023,6,19:00,19:00,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,23/06/2023,6,19:00,18:59,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,23/06/2023,6,19:00,18:54,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,23/06/2023,6,20:00,19:55,A TIEMPO,0
+Calidad,Juan Ayala,Peru,26/06/2023,6,19:00,18:45,TEMPRANO,0
+Calidad,Giovanni Cajas,Colombia,26/06/2023,6,19:00,18:38,TEMPRANO,0
+Calidad,Edgar Villena,Peru,26/06/2023,6,19:00,18:58,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,26/06/2023,6,19:00,18:48,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,26/06/2023,6,19:00,18:54,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,26/06/2023,6,20:00,19:59,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,26/06/2023,6,19:00,19:08,TARDE,8
+TI,Freddy Jimenez,Venezuela,26/06/2023,6,19:00,18:57,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,26/06/2023,6,19:00,18:53,TEMPRANO,0
+Mantenimiento,Jhon Roman,Colombia,27/06/2023,6,19:00,18:53,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,27/06/2023,6,19:00,19:04,TARDE,4
+Construccion,Luis Alvarado,Chile,27/06/2023,6,19:00,19:01,TARDE,1
+Construccion,Sofia Lopez,Colombia,27/06/2023,6,19:00,18:56,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,27/06/2023,6,19:00,18:56,A TIEMPO,0
+TI,Walter Arroyo,Colombia,27/06/2023,6,19:00,19:04,TARDE,4
+Calidad,Edgar Villena,Peru,28/06/2023,6,19:00,19:16,TARDE,16
+Calidad,Mauricio Amezquita,Colombia,28/06/2023,6,19:00,18:53,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,28/06/2023,6,19:00,19:00,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,28/06/2023,6,19:00,18:58,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,28/06/2023,6,19:00,18:51,TEMPRANO,0
+Calidad,Juan Ayala,Peru,28/06/2023,6,19:00,18:58,A TIEMPO,0
+TI,Sebastian Zapata,Colombia,28/06/2023,6,19:00,18:54,TEMPRANO,0
+Calidad,Giovanni Cajas,Colombia,28/06/2023,6,19:00,19:01,TARDE,1
+Construccion,Oscar Cardenas,Colombia,28/06/2023,6,19:00,19:02,TARDE,2
+TI,Walter Arroyo,Colombia,30/06/2023,6,19:00,18:55,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,30/06/2023,6,19:00,19:01,TARDE,1
+Proyectos,Jaime Ferro,Colombia,30/06/2023,6,19:00,19:00,A TIEMPO,0
+Mineria,Aldo Mora,Chile,30/06/2023,6,19:00,18:49,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,30/06/2023,6,19:00,18:59,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,30/06/2023,6,20:00,19:53,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,03/07/2023,7,19:00,19:02,TARDE,2
+Calidad,Giovanni Cajas,Colombia,03/07/2023,7,19:00,18:53,TEMPRANO,0
+Calidad,Edgar Villena,Peru,03/07/2023,7,19:00,18:59,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,03/07/2023,7,19:00,18:57,A TIEMPO,0
+TI,Freddy Jimenez,Venezuela,03/07/2023,7,19:00,19:01,TARDE,1
+TI,Walter Arroyo,Colombia,03/07/2023,7,19:00,18:59,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,03/07/2023,7,20:00,19:56,A TIEMPO,0
+Mantenimiento,Jhon Roman,Colombia,04/07/2023,7,19:00,18:55,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,04/07/2023,7,19:00,19:03,TARDE,3
+Construccion,Sofia Lopez,Colombia,04/07/2023,7,19:00,18:57,A TIEMPO,0
+TI,Walter Arroyo,Colombia,04/07/2023,7,19:00,18:54,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,04/07/2023,7,19:00,19:07,TARDE,7
+Proyectos,Jaime Ferro,Colombia,05/07/2023,7,19:00,18:57,A TIEMPO,0
+Construccion,Boris Heredia,Chile,05/07/2023,7,19:00,18:47,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,05/07/2023,7,19:00,19:01,TARDE,1
+TI,Sebastian Zapata,Colombia,05/07/2023,7,19:00,18:54,TEMPRANO,0
+Calidad,Giovanni Cajas,Colombia,05/07/2023,7,19:00,18:59,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,05/07/2023,7,19:00,19:00,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,05/07/2023,7,19:00,18:53,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,06/07/2023,7,19:00,18:57,A TIEMPO,0
+Calidad,Jorge Ponce,Peru,06/07/2023,7,19:00,18:59,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,06/07/2023,7,19:00,18:59,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,06/07/2023,7,19:00,19:02,TARDE,2
+TI,Ericcson Castrellon,Venezuela,06/07/2023,7,19:00,19:02,TARDE,2
+TI,Raul Cordova,Peru,06/07/2023,7,19:00,19:01,TARDE,1
+Mineria,Aldo Mora,Chile,07/07/2023,7,19:00,18:37,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,07/07/2023,7,19:00,18:51,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,07/07/2023,7,19:00,18:54,TEMPRANO,0
+TI,Walter Arroyo,Colombia,07/07/2023,7,19:00,18:58,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,07/07/2023,7,19:00,19:01,TARDE,1
+Proyectos,Jaime Ferro,Colombia,07/07/2023,7,19:00,18:56,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,07/07/2023,7,20:00,20:00,A TIEMPO,0
+Calidad,Edgar Villena,Peru,10/07/2023,7,19:00,18:59,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,10/07/2023,7,19:00,19:01,TARDE,1
+Calidad,Virginia Morales,Peru,10/07/2023,7,19:00,18:53,TEMPRANO,0
+TI,Freddy Jimenez,Venezuela,10/07/2023,7,19:00,19:00,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,10/07/2023,7,19:00,18:49,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,10/07/2023,7,19:00,18:46,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,10/07/2023,7,19:00,18:57,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,10/07/2023,7,19:00,19:02,TARDE,2
+Calidad,Juan Ayala,Peru,10/07/2023,7,19:00,18:48,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,10/07/2023,7,19:00,18:50,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,10/07/2023,7,19:00,19:00,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,11/07/2023,7,19:00,18:53,TEMPRANO,0
+TI,Walter Arroyo,Colombia,11/07/2023,7,19:00,18:45,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,11/07/2023,7,19:00,18:58,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,11/07/2023,7,19:00,18:59,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,11/07/2023,7,19:00,19:01,TARDE,1
+Mantenimiento,Jorge Ponce,Peru,11/07/2023,7,19:00,18:58,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,12/07/2023,7,19:00,18:52,TEMPRANO,0
+Calidad,Juan Ayala,Peru,12/07/2023,7,19:00,18:58,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,12/07/2023,7,19:00,18:55,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,12/07/2023,7,19:00,19:02,TARDE,2
+TI,Sebastian Zapata,Colombia,12/07/2023,7,19:00,18:59,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,12/07/2023,7,19:00,18:47,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,12/07/2023,7,19:00,18:59,A TIEMPO,0
+Construccion,Boris Heredia,Chile,12/07/2023,7,19:00,18:46,TEMPRANO,0
+Calidad,Edgar Villena,Peru,12/07/2023,7,19:00,19:01,TARDE,1
+Proyectos,Nestor Rodriguez,Colombia,12/07/2023,7,19:00,18:56,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,12/07/2023,7,19:00,18:46,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,12/07/2023,7,19:00,19:01,TARDE,1
+Proyectos,Oscar Valentin,Peru,13/07/2023,7,20:00,19:17,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,13/07/2023,7,19:00,18:59,A TIEMPO,0
+Calidad,Daniel Orellana,Bolivia,13/07/2023,7,19:00,18:50,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,13/07/2023,7,19:00,18:59,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,13/07/2023,7,19:00,18:49,TEMPRANO,0
+TI,Ericcson Castrellon,Venezuela,13/07/2023,7,19:00,19:04,TARDE,4
+TI,Raul Cordova,Peru,13/07/2023,7,19:00,19:00,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,14/07/2023,7,19:00,18:43,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,14/07/2023,7,19:00,19:02,TARDE,2
+TI,Walter Arroyo,Colombia,14/07/2023,7,19:00,18:53,TEMPRANO,0
+Mineria,Aldo Mora,Chile,14/07/2023,7,19:00,18:38,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,14/07/2023,7,19:00,18:58,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,14/07/2023,7,20:00,20:01,TARDE,1
+Proyectos,Juan Ortega,Colombia,17/07/2023,7,19:00,19:01,TARDE,1
+Calidad,Silvia Bellido,Peru,17/07/2023,7,19:00,18:49,TEMPRANO,0
+TI,Richard Gonzalez,Colombia,17/07/2023,7,19:00,18:50,TEMPRANO,0
+Calidad,Virginia Morales,Peru,17/07/2023,7,19:00,18:57,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,17/07/2023,7,19:00,19:00,A TIEMPO,0
+Calidad,Edgar Villena,Peru,17/07/2023,7,19:00,18:58,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,17/07/2023,7,19:00,18:55,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,17/07/2023,7,19:00,18:57,A TIEMPO,0
+Calidad,Juan Ayala,Peru,17/07/2023,7,19:00,18:43,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,17/07/2023,7,19:00,18:49,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,18/07/2023,7,19:00,18:56,A TIEMPO,0
+TI,Walter Arroyo,Colombia,18/07/2023,7,19:00,18:59,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,18/07/2023,7,19:00,18:59,A TIEMPO,0
+Construccion,Boris Heredia,Chile,18/07/2023,7,19:00,18:48,TEMPRANO,0
+Mantenimiento,Jorge Ponce,Peru,18/07/2023,7,19:00,18:56,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,18/07/2023,7,19:00,18:58,A TIEMPO,0
+Mantenimiento,Jhon Roman,Colombia,18/07/2023,7,19:00,18:55,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,19/07/2023,7,19:00,18:44,TEMPRANO,0
+TI,Sebastian Zapata,Colombia,19/07/2023,7,19:00,18:59,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,19/07/2023,7,19:00,19:01,TARDE,1
+Calidad,Mauricio Amezquita,Colombia,19/07/2023,7,19:00,19:08,TARDE,8
+Calidad,Juan Ayala,Peru,19/07/2023,7,19:00,19:00,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,19/07/2023,7,19:00,18:57,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,19/07/2023,7,19:00,19:02,TARDE,2
+Proyectos,Sofia Lopez,Colombia,19/07/2023,7,19:00,18:56,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,19/07/2023,7,19:00,18:54,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,19/07/2023,7,19:00,18:59,A TIEMPO,0
+Calidad,Edgar Villena,Peru,19/07/2023,7,19:00,18:56,A TIEMPO,0
+Construccion,Boris Heredia,Chile,19/07/2023,7,19:00,19:00,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,19/07/2023,7,19:00,18:59,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,20/07/2023,7,19:00,18:56,A TIEMPO,0
+Calidad,Daniel Orellana,Bolivia,20/07/2023,7,19:00,18:58,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,20/07/2023,7,19:00,19:00,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,20/07/2023,7,19:00,18:45,TEMPRANO,0
+TI,Ericcson Castrellon,Venezuela,20/07/2023,7,19:00,19:13,TARDE,13
+TI,Raul Cordova,Peru,20/07/2023,7,19:00,19:05,TARDE,5
+Proyectos,Oscar Valentin,Peru,20/07/2023,7,20:00,19:40,TEMPRANO,0
+Mantenimiento,Juan Mori,Peru,21/07/2023,7,19:00,18:03,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,21/07/2023,7,19:00,18:52,TEMPRANO,0
+Calidad,Pedro Ordonez,Peru,21/07/2023,7,19:00,18:54,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,21/07/2023,7,19:00,19:00,A TIEMPO,0
+TI,Walter Arroyo,Colombia,21/07/2023,7,19:00,18:55,A TIEMPO,0
+Proyectos,Jose Tinajero,Mexico,21/07/2023,7,20:00,19:51,TEMPRANO,0
+Calidad,Edgar Villena,Peru,24/07/2023,7,19:00,19:01,TARDE,1
+Calidad,Jaime Yanez,Peru,24/07/2023,7,19:00,18:54,TEMPRANO,0
+Calidad,Virginia Morales,Peru,24/07/2023,7,19:00,18:57,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,24/07/2023,7,19:00,18:51,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,24/07/2023,7,19:00,18:50,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,24/07/2023,7,19:00,19:01,TARDE,1
+Calidad,Mauricio Amezquita,Colombia,24/07/2023,7,19:00,18:55,A TIEMPO,0
+Calidad,Juan Ayala,Peru,24/07/2023,7,19:00,18:57,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,24/07/2023,7,19:00,18:56,A TIEMPO,0
+Mantenimiento,Jorge Ponce,Peru,25/07/2023,7,19:00,18:47,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,25/07/2023,7,19:00,19:05,TARDE,5
+Construccion,Sofia Lopez,Colombia,25/07/2023,7,19:00,18:54,TEMPRANO,0
+TI,Walter Arroyo,Colombia,25/07/2023,7,19:00,18:55,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,25/07/2023,7,19:00,18:53,TEMPRANO,0
+Construccion,Boris Heredia,Chile,25/07/2023,7,19:00,19:05,TARDE,5
+Proyectos,Jaime Ferro,Colombia,26/07/2023,7,19:00,19:06,TARDE,6
+Construccion,Boris Heredia,Chile,26/07/2023,7,19:00,19:00,A TIEMPO,0
+Calidad,Edgar Villena,Peru,26/07/2023,7,19:00,19:00,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,26/07/2023,7,19:00,18:53,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,26/07/2023,7,19:00,18:55,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,26/07/2023,7,19:00,19:00,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,26/07/2023,7,19:00,18:55,A TIEMPO,0
+Calidad,Juan Ayala,Peru,26/07/2023,7,19:00,18:58,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,26/07/2023,7,19:00,18:52,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,26/07/2023,7,19:00,19:02,TARDE,2
+TI,Sebastian Zapata,Colombia,26/07/2023,7,19:00,18:54,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,26/07/2023,7,19:00,18:50,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,26/07/2023,7,19:00,18:56,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,27/07/2023,7,19:00,18:58,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,27/07/2023,7,19:00,19:05,TARDE,5
+Calidad,Jaime Yanez,Peru,27/07/2023,7,19:00,19:00,A TIEMPO,0
+TI,Raul Cordova,Peru,27/07/2023,7,19:00,19:05,TARDE,5
+Proyectos,Hector Beltran,Colombia,27/07/2023,7,19:00,18:54,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,27/07/2023,7,19:00,18:57,A TIEMPO,0
+Proyectos,Oscar Valentin,Peru,27/07/2023,7,20:00,18:55,TEMPRANO,0
+Calidad,Edgar Villena,Peru,31/07/2023,7,19:00,19:13,TARDE,13
+Calidad,Virginia Morales,Peru,31/07/2023,7,19:00,18:53,TEMPRANO,0
+TI,Richard Gonzalez,Colombia,31/07/2023,7,19:00,18:54,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,31/07/2023,7,19:00,18:50,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,31/07/2023,7,19:00,19:01,TARDE,1
+Construccion,Sofia Lopez,Colombia,01/08/2023,8,19:00,18:57,A TIEMPO,0
+TI,Walter Arroyo,Colombia,01/08/2023,8,19:00,18:55,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,01/08/2023,8,19:00,18:59,A TIEMPO,0
+Construccion,Boris Heredia,Chile,01/08/2023,8,19:00,18:47,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,01/08/2023,8,19:00,19:01,TARDE,1
+Construccion,Luis Alvarado,Chile,01/08/2023,8,19:00,19:05,TARDE,5
+Mantenimiento,Jorge Ponce,Peru,01/08/2023,8,19:00,18:56,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,02/08/2023,8,19:00,18:58,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,02/08/2023,8,19:00,19:01,TARDE,1
+Proyectos,Nestor Rodriguez,Colombia,02/08/2023,8,19:00,18:51,TEMPRANO,0
+TI,Sebastian Zapata,Colombia,02/08/2023,8,19:00,18:52,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,02/08/2023,8,19:00,19:01,TARDE,1
+Proyectos,Jaime Ferro,Colombia,02/08/2023,8,19:00,19:00,A TIEMPO,0
+Construccion,Boris Heredia,Chile,02/08/2023,8,19:00,18:51,TEMPRANO,0
+Calidad,Edgar Villena,Peru,02/08/2023,8,19:00,18:53,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,02/08/2023,8,19:00,18:53,TEMPRANO,0
+Calidad,Daniel Orellana,Bolivia,03/08/2023,8,19:00,18:51,TEMPRANO,0
+Proyectos,Oscar Valentin,Peru,03/08/2023,8,20:00,19:38,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,03/08/2023,8,19:00,18:58,A TIEMPO,0
+TI,Raul Cordova,Peru,03/08/2023,8,19:00,19:20,TARDE,20
+TI,Ericcson Castrellon,Venezuela,03/08/2023,8,19:00,19:03,TARDE,3
+Proyectos,Hector Beltran,Colombia,03/08/2023,8,19:00,18:54,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,03/08/2023,8,19:00,18:59,A TIEMPO,0
+Calidad,Juan Ayala,Peru,03/08/2023,8,19:00,18:59,A TIEMPO,0
+Mantenimiento,Juan Mori,Peru,04/08/2023,8,19:00,18:06,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,04/08/2023,8,20:00,19:53,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,04/08/2023,8,19:00,18:52,TEMPRANO,0
+Mineria,Aldo Mora,Chile,04/08/2023,8,19:00,18:32,TEMPRANO,0
+TI,Walter Arroyo,Colombia,04/08/2023,8,19:00,18:52,TEMPRANO,0
+Calidad,Edgar Villena,Peru,07/08/2023,8,19:00,18:59,A TIEMPO,0
+Calidad,Virginia Morales,Peru,07/08/2023,8,19:00,18:57,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,07/08/2023,8,19:00,18:50,TEMPRANO,0
+Calidad,Daniel Orellana,Bolivia,07/08/2023,8,19:00,19:11,TARDE,11
+Calidad,Ricardo Lopez,Colombia,07/08/2023,8,19:00,18:52,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,07/08/2023,8,19:00,18:53,TEMPRANO,0
+Construccion,Luis Alvarado,Chile,08/08/2023,8,19:00,19:00,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,08/08/2023,8,19:00,18:57,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,08/08/2023,8,19:00,19:01,TARDE,1
+Construccion,Boris Heredia,Chile,08/08/2023,8,19:00,18:43,TEMPRANO,0
+Mantenimiento,Jorge Ponce,Peru,08/08/2023,8,19:00,18:56,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,09/08/2023,8,19:00,18:29,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,09/08/2023,8,19:00,18:56,A TIEMPO,0
+Calidad,Edgar Villena,Peru,09/08/2023,8,19:00,19:00,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,09/08/2023,8,19:00,19:24,TARDE,24
+Proyectos,Diego Delgadillo,Bolivia,09/08/2023,8,19:00,19:00,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,09/08/2023,8,19:00,19:06,TARDE,6
+Calidad,Silvia Bellido,Peru,09/08/2023,8,19:00,18:50,TEMPRANO,0
+Proyectos,Alfredo Ugalde,Colombia,09/08/2023,8,19:00,18:57,A TIEMPO,0
+TI,Francisco Moreno,Colombia,09/08/2023,8,19:00,19:00,A TIEMPO,0
+Calidad,Ricardo Lopez,Colombia,09/08/2023,8,19:00,18:47,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,09/08/2023,8,19:00,19:01,TARDE,1
+TI,Sebastian Zapata,Colombia,09/08/2023,8,19:00,18:55,A TIEMPO,0
+Calidad,Daniel Orellana,Bolivia,10/08/2023,8,19:00,18:58,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,10/08/2023,8,19:00,19:04,TARDE,4
+Proyectos,Oscar Valentin,Peru,10/08/2023,8,20:00,19:50,TEMPRANO,0
+TI,Raul Cordova,Peru,10/08/2023,8,19:00,19:02,TARDE,2
+Proyectos,Sofia Lopez,Colombia,10/08/2023,8,19:00,19:18,TARDE,18
+Calidad,Juan Ayala,Peru,10/08/2023,8,19:00,18:54,TEMPRANO,0
+Calidad,Virginia Morales,Peru,11/08/2023,8,19:00,18:59,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,11/08/2023,8,19:00,18:59,A TIEMPO,0
+Mantenimiento,Juan Mori,Peru,11/08/2023,8,19:00,18:41,TEMPRANO,0
+TI,Walter Arroyo,Colombia,11/08/2023,8,19:00,18:55,A TIEMPO,0
+Mineria,Aldo Mora,Chile,11/08/2023,8,19:00,18:48,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,11/08/2023,8,19:00,18:52,TEMPRANO,0
+Proyectos,Jose Tinajero,Mexico,11/08/2023,8,20:00,19:56,A TIEMPO,0
+Calidad,Edgar Villena,Peru,14/08/2023,8,19:00,18:52,TEMPRANO,0
+Calidad,Marcia Diaz,Peru,14/08/2023,8,19:00,18:29,TEMPRANO,0
+Calidad,Virginia Morales,Peru,14/08/2023,8,19:00,19:05,TARDE,5
+TI,Richard Gonzalez,Colombia,14/08/2023,8,19:00,18:53,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,14/08/2023,8,19:00,18:50,TEMPRANO,0
+Calidad,Giovanni Cajas,Colombia,14/08/2023,8,19:00,18:54,TEMPRANO,0
+Calidad,Ricardo Lopez,Colombia,14/08/2023,8,19:00,18:51,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,14/08/2023,8,19:00,19:02,TARDE,2
+Proyectos,Alfredo Ugalde,Colombia,16/08/2023,8,19:00,18:54,TEMPRANO,0
+TI,Francisco Moreno,Colombia,16/08/2023,8,19:00,18:56,A TIEMPO,0
+Calidad,Ricardo Lopez,Colombia,16/08/2023,8,19:00,18:54,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,16/08/2023,8,19:00,19:01,TARDE,1
+Calidad,Giovanni Cajas,Colombia,16/08/2023,8,19:00,18:56,A TIEMPO,0
+TI,Sebastian Zapata,Colombia,16/08/2023,8,19:00,18:35,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,16/08/2023,8,19:00,19:00,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,16/08/2023,8,19:00,18:53,TEMPRANO,0
+Calidad,Edgar Villena,Peru,16/08/2023,8,19:00,18:57,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,16/08/2023,8,19:00,18:55,A TIEMPO,0
+Calidad,Marcia Diaz,Peru,16/08/2023,8,19:00,18:51,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,16/08/2023,8,19:00,18:49,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,16/08/2023,8,19:00,19:06,TARDE,6
+Construccion,Luis Alvarado,Chile,16/08/2023,8,19:00,19:00,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,16/08/2023,8,19:00,19:06,TARDE,6
+Proyectos,Diego Delgadillo,Bolivia,17/08/2023,8,19:00,18:58,A TIEMPO,0
+Calidad,Juan Ayala,Peru,17/08/2023,8,19:00,19:00,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,17/08/2023,8,19:00,18:58,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,17/08/2023,8,19:00,19:03,TARDE,3
+TI,Raul Cordova,Peru,17/08/2023,8,19:00,19:02,TARDE,2
+BigData,Ray Torres,Peru,17/08/2023,8,19:00,19:04,TARDE,4
+TI,Walter Arroyo,Colombia,17/08/2023,8,19:00,18:56,A TIEMPO,0
+Proyectos,Oscar Valentin,Peru,17/08/2023,8,20:00,19:48,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,17/08/2023,8,19:00,18:54,TEMPRANO,0
+Mantenimiento,William Lopez,Peru,17/08/2023,8,19:00,18:58,A TIEMPO,0
+Calidad,Virginia Morales,Peru,18/08/2023,8,19:00,18:55,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,18/08/2023,8,19:00,18:59,A TIEMPO,0
+Mantenimiento,Juan Mori,Peru,18/08/2023,8,19:00,18:32,TEMPRANO,0
+TI,Walter Arroyo,Colombia,18/08/2023,8,19:00,19:04,TARDE,4
+Proyectos,Jose Tinajero,Mexico,18/08/2023,8,20:00,20:00,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,18/08/2023,8,19:00,18:25,TEMPRANO,0
+Mineria,Aldo Mora,Chile,18/08/2023,8,19:00,18:50,TEMPRANO,0
+Calidad,Edgar Villena,Peru,21/08/2023,8,19:00,18:55,A TIEMPO,0
+Calidad,Marcia Diaz,Peru,21/08/2023,8,19:00,18:44,TEMPRANO,0
+Calidad,Virginia Morales,Peru,21/08/2023,8,19:00,18:55,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,21/08/2023,8,19:00,18:54,TEMPRANO,0
+Calidad,Rosa Gutierrez,Colombia,21/08/2023,8,19:00,18:58,A TIEMPO,0
+Calidad,Ricardo Lopez,Colombia,21/08/2023,8,19:00,18:49,TEMPRANO,0
+Calidad,Giovanni Cajas,Colombia,21/08/2023,8,19:00,19:00,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,22/08/2023,8,19:00,19:00,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,22/08/2023,8,19:00,18:52,TEMPRANO,0
+Mantenimiento,Oscar Suarez,Colombia,22/08/2023,8,19:00,19:09,TARDE,9
+Construccion,Luis Alvarado,Chile,22/08/2023,8,19:00,19:02,TARDE,2
+Construccion,Sofia Lopez,Colombia,22/08/2023,8,19:00,18:56,A TIEMPO,0
+Construccion,Boris Heredia,Chile,22/08/2023,8,19:00,18:52,TEMPRANO,0
+Mantenimiento,Jorge Ponce,Peru,22/08/2023,8,19:00,19:30,TARDE,30
+Calidad,Daniel Orellana,Bolivia,22/08/2023,8,19:00,18:55,A TIEMPO,0
+Calidad,Rosa Gutierrez,Colombia,23/08/2023,8,19:00,18:58,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,23/08/2023,8,19:00,18:41,TEMPRANO,0
+TI,Francisco Moreno,Colombia,23/08/2023,8,19:00,18:55,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,23/08/2023,8,19:00,19:02,TARDE,2
+TI,Sebastian Zapata,Colombia,23/08/2023,8,19:00,18:53,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,23/08/2023,8,19:00,18:47,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,23/08/2023,8,19:00,18:57,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,23/08/2023,8,19:00,18:58,A TIEMPO,0
+Calidad,Edgar Villena,Peru,23/08/2023,8,19:00,18:59,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,23/08/2023,8,19:00,18:54,TEMPRANO,0
+Calidad,Marcia Diaz,Peru,23/08/2023,8,19:00,18:50,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,23/08/2023,8,19:00,18:51,TEMPRANO,0
+Calidad,Daniel Orellana,Bolivia,24/08/2023,8,19:00,18:58,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,24/08/2023,8,19:00,18:54,TEMPRANO,0
+Proyectos,Hector Beltran,Colombia,24/08/2023,8,19:00,19:01,TARDE,1
+Calidad,Juan Ayala,Peru,24/08/2023,8,19:00,18:51,TEMPRANO,0
+TI,Raul Cordova,Peru,24/08/2023,8,19:00,19:04,TARDE,4
+BigData,Ray Torres,Peru,24/08/2023,8,19:00,19:00,A TIEMPO,0
+TI,Walter Arroyo,Colombia,24/08/2023,8,19:00,19:05,TARDE,5
+Proyectos,Oscar Valentin,Peru,24/08/2023,8,20:00,19:51,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,24/08/2023,8,19:00,18:55,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,24/08/2023,8,19:00,18:54,TEMPRANO,0
+Mineria,Aldo Mora,Chile,25/08/2023,8,19:00,18:31,TEMPRANO,0
+Calidad,Virginia Morales,Peru,25/08/2023,8,19:00,18:59,A TIEMPO,0
+Mantenimiento,William Lopez,Peru,25/08/2023,8,19:00,18:54,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,25/08/2023,8,19:00,18:33,TEMPRANO,0
+Calidad,Rosa Gutierrez,Colombia,28/08/2023,8,19:00,18:54,TEMPRANO,0
+Calidad,Marcia Diaz,Peru,28/08/2023,8,19:00,19:00,A TIEMPO,0
+Calidad,Virginia Morales,Peru,28/08/2023,8,19:00,18:52,TEMPRANO,0
+TI,Walter Arroyo,Colombia,28/08/2023,8,19:00,18:56,A TIEMPO,0
+Calidad,Giovanni Cajas,Colombia,28/08/2023,8,19:00,18:50,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,29/08/2023,8,19:00,18:53,TEMPRANO,0
+Calidad,Rosa Gutierrez,Colombia,29/08/2023,8,19:00,18:54,TEMPRANO,0
+TI,Richard Gonzalez,Colombia,29/08/2023,8,19:00,18:57,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,29/08/2023,8,19:00,18:54,TEMPRANO,0
+Calidad,Giovanni Cajas,Colombia,29/08/2023,8,19:00,18:55,A TIEMPO,0
+Mantenimiento,Oscar Suarez,Colombia,29/08/2023,8,19:00,18:58,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,29/08/2023,8,19:00,18:58,A TIEMPO,0
+Calidad,Marcia Diaz,Peru,29/08/2023,8,19:00,18:55,A TIEMPO,0
+Construccion,Boris Heredia,Chile,29/08/2023,8,19:00,18:58,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,29/08/2023,8,19:00,19:01,TARDE,1
+Calidad,Daniel Orellana,Bolivia,31/08/2023,8,19:00,18:54,TEMPRANO,0
+Proyectos,Hector Beltran,Colombia,31/08/2023,8,19:00,19:00,A TIEMPO,0
+Calidad,Juan Ayala,Peru,31/08/2023,8,19:00,18:54,TEMPRANO,0
+TI,Raul Cordova,Peru,31/08/2023,8,19:00,19:06,TARDE,6
+Proyectos,Alfredo Ugalde,Colombia,31/08/2023,8,19:00,19:00,A TIEMPO,0
+BigData,Ray Torres,Peru,31/08/2023,8,19:00,19:01,TARDE,1
+TI,Walter Arroyo,Colombia,31/08/2023,8,19:00,18:58,A TIEMPO,0
+Proyectos,Oscar Valentin,Peru,31/08/2023,8,20:00,19:35,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,31/08/2023,8,19:00,18:57,A TIEMPO,0
+Calidad,Virginia Morales,Peru,01/09/2023,9,19:00,18:55,A TIEMPO,0
+Mantenimiento,William Lopez,Peru,01/09/2023,9,19:00,18:54,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,01/09/2023,9,19:00,18:46,TEMPRANO,0
+Calidad,Marcia Diaz,Peru,04/09/2023,9,19:00,18:50,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,04/09/2023,9,19:00,18:48,TEMPRANO,0
+TI,Walter Arroyo,Colombia,04/09/2023,9,19:00,18:59,A TIEMPO,0
+Calidad,Virginia Morales,Peru,04/09/2023,9,19:00,18:58,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,04/09/2023,9,19:00,18:50,TEMPRANO,0
+Calidad,Giovanni Cajas,Colombia,04/09/2023,9,19:00,18:38,TEMPRANO,0
+Calidad,Ricardo Lopez,Colombia,04/09/2023,9,19:00,18:50,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,04/09/2023,9,19:00,18:48,TEMPRANO,0
+Calidad,Rosa Gutierrez,Colombia,04/09/2023,9,19:00,19:01,TARDE,1
+Proyectos,Jaime Ferro,Colombia,05/09/2023,9,19:00,19:22,TARDE,22
+Proyectos,Cesar Ramirez,Colombia,05/09/2023,9,19:00,19:05,TARDE,5
+Construccion,Sofia Lopez,Colombia,05/09/2023,9,19:00,18:57,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,05/09/2023,9,19:00,18:56,A TIEMPO,0
+Construccion,Boris Heredia,Chile,05/09/2023,9,19:00,18:58,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,05/09/2023,9,19:00,19:03,TARDE,3
+Mantenimiento,Oscar Suarez,Colombia,05/09/2023,9,19:00,19:10,TARDE,10
+TI,Richard Gonzalez,Colombia,05/09/2023,9,19:00,18:46,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,05/09/2023,9,19:00,19:00,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,06/09/2023,9,19:00,19:00,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,06/09/2023,9,19:00,18:57,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,06/09/2023,9,19:00,18:54,TEMPRANO,0
+Calidad,Marcia Diaz,Peru,06/09/2023,9,19:00,18:50,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,06/09/2023,9,19:00,19:01,TARDE,1
+Construccion,Oscar Cardenas,Colombia,06/09/2023,9,19:00,19:05,TARDE,5
+Calidad,Mauricio Amezquita,Colombia,06/09/2023,9,19:00,18:39,TEMPRANO,0
+Calidad,Rosa Gutierrez,Colombia,06/09/2023,9,19:00,18:56,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,06/09/2023,9,19:00,19:00,A TIEMPO,0
+TI,Francisco Moreno,Colombia,06/09/2023,9,19:00,18:56,A TIEMPO,0
+Calidad,Ricardo Lopez,Colombia,06/09/2023,9,19:00,18:48,TEMPRANO,0
+TI,Sebastian Zapata,Colombia,06/09/2023,9,19:00,18:59,A TIEMPO,0
+Calidad,Virginia Morales,Peru,06/09/2023,9,19:00,18:56,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,06/09/2023,9,19:00,18:48,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,07/09/2023,9,19:00,18:56,A TIEMPO,0
+Proyectos,Oscar Valentin,Peru,07/09/2023,9,20:00,19:35,TEMPRANO,0
+TI,Walter Arroyo,Colombia,07/09/2023,9,19:00,18:53,TEMPRANO,0
+TI,Sebastian Zapata,Colombia,07/09/2023,9,19:00,18:55,A TIEMPO,0
+Calidad,Daniel Orellana,Bolivia,07/09/2023,9,19:00,18:57,A TIEMPO,0
+Calidad,Virginia Morales,Peru,07/09/2023,9,19:00,18:52,TEMPRANO,0
+TI,Raul Cordova,Peru,07/09/2023,9,19:00,19:04,TARDE,4
+Proyectos,Alfredo Ugalde,Colombia,07/09/2023,9,19:00,18:56,A TIEMPO,0
+Calidad,Daniel Orellana,Bolivia,08/09/2023,9,19:00,18:47,TEMPRANO,0
+Calidad,Virginia Morales,Peru,08/09/2023,9,19:00,18:50,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,08/09/2023,9,19:00,19:02,TARDE,2
+Mantenimiento,William Lopez,Peru,08/09/2023,9,19:00,18:54,TEMPRANO,0
+Calidad,Juan Ayala,Peru,08/09/2023,9,19:00,18:58,A TIEMPO,0
+Calidad,Marcia Diaz,Peru,11/09/2023,9,19:00,18:53,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,11/09/2023,9,19:00,18:14,TEMPRANO,0
+TI,Walter Arroyo,Colombia,11/09/2023,9,19:00,18:56,A TIEMPO,0
+Calidad,Virginia Morales,Peru,11/09/2023,9,19:00,19:00,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,11/09/2023,9,19:00,18:55,A TIEMPO,0
+Mantenimiento,Oscar Suarez,Colombia,11/09/2023,9,19:00,18:53,TEMPRANO,0
+Calidad,Ricardo Lopez,Colombia,11/09/2023,9,19:00,18:53,TEMPRANO,0
+Calidad,Melissa Sanchez,Peru,11/09/2023,9,19:00,19:01,TARDE,1
+Calidad,Mauricio Amezquita,Colombia,11/09/2023,9,19:00,19:28,TARDE,28
+TI,Freddy Jimenez,Venezuela,12/09/2023,9,19:00,18:44,TEMPRANO,0
+TI,Juan Olarte,Colombia,12/09/2023,9,19:00,19:01,TARDE,1
+Proyectos,Cesar Ramirez,Colombia,12/09/2023,9,19:00,18:55,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,12/09/2023,9,19:00,19:00,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,12/09/2023,9,19:00,18:54,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,12/09/2023,9,19:00,18:58,A TIEMPO,0
+Construccion,Boris Heredia,Chile,12/09/2023,9,19:00,18:58,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,12/09/2023,9,19:00,19:05,TARDE,5
+Mantenimiento,Oscar Suarez,Colombia,12/09/2023,9,19:00,18:57,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,12/09/2023,9,19:00,18:51,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,12/09/2023,9,19:00,18:57,A TIEMPO,0
+Calidad,Ricardo Lopez,Colombia,13/09/2023,9,19:00,18:52,TEMPRANO,0
+TI,Francisco Moreno,Colombia,13/09/2023,9,19:00,18:58,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,13/09/2023,9,19:00,18:57,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,13/09/2023,9,19:00,19:02,TARDE,2
+Calidad,Melissa Sanchez,Peru,13/09/2023,9,19:00,18:51,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,13/09/2023,9,19:00,18:54,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,13/09/2023,9,19:00,18:56,A TIEMPO,0
+Calidad,Marcia Diaz,Peru,13/09/2023,9,19:00,18:46,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,13/09/2023,9,19:00,18:54,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,13/09/2023,9,19:00,19:00,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,13/09/2023,9,19:00,19:02,TARDE,2
+Construccion,Oscar Cardenas,Colombia,13/09/2023,9,19:00,18:51,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,13/09/2023,9,19:00,18:51,TEMPRANO,0
+Calidad,Virginia Morales,Peru,13/09/2023,9,19:00,18:59,A TIEMPO,0
+TI,Ericcson Castrellon,Venezuela,14/09/2023,9,19:00,19:02,TARDE,2
+Calidad,Daniel Orellana,Bolivia,14/09/2023,9,19:00,18:55,A TIEMPO,0
+TI,Walter Arroyo,Colombia,14/09/2023,9,19:00,18:52,TEMPRANO,0
+Proyectos,Oscar Valentin,Peru,14/09/2023,9,20:00,19:46,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,14/09/2023,9,19:00,18:58,A TIEMPO,0
+Proyectos,Diego Delgadillo,Bolivia,14/09/2023,9,19:00,19:02,TARDE,2
+Calidad,Virginia Morales,Peru,14/09/2023,9,19:00,18:53,TEMPRANO,0
+TI,Raul Cordova,Peru,14/09/2023,9,19:00,19:38,TARDE,38
+Proyectos,Jaime Ferro,Colombia,15/09/2023,9,19:00,19:00,A TIEMPO,0
+Mantenimiento,William Lopez,Peru,15/09/2023,9,19:00,19:01,TARDE,1
+Calidad,Juan Ayala,Peru,15/09/2023,9,19:00,18:52,TEMPRANO,0
+Calidad,Daniel Orellana,Bolivia,15/09/2023,9,19:00,18:53,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,15/09/2023,9,19:00,18:59,A TIEMPO,0
+Calidad,Marcia Diaz,Peru,18/09/2023,9,19:00,18:54,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,18/09/2023,9,19:00,18:43,TEMPRANO,0
+TI,Walter Arroyo,Colombia,18/09/2023,9,19:00,18:49,TEMPRANO,0
+Calidad,Virginia Morales,Peru,18/09/2023,9,19:00,19:02,TARDE,2
+Calidad,Silvia Bellido,Peru,18/09/2023,9,19:00,18:52,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,18/09/2023,9,19:00,19:01,TARDE,1
+Calidad,Jaime Yanez,Peru,18/09/2023,9,19:00,19:00,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,18/09/2023,9,19:00,18:44,TEMPRANO,0
+Calidad,Melissa Sanchez,Peru,18/09/2023,9,19:00,19:00,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,19/09/2023,9,19:00,18:53,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,19/09/2023,9,19:00,18:54,TEMPRANO,0
+Construccion,Boris Heredia,Chile,19/09/2023,9,19:00,18:41,TEMPRANO,0
+Mantenimiento,Antonio Marquez,Colombia,19/09/2023,9,19:00,18:57,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,19/09/2023,9,19:00,18:52,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,19/09/2023,9,19:00,19:00,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,19/09/2023,9,19:00,18:52,TEMPRANO,0
+Proyectos,Edgar Villena,Peru,19/09/2023,9,19:00,18:54,TEMPRANO,0
+TI,Freddy Jimenez,Venezuela,19/09/2023,9,19:00,18:52,TEMPRANO,0
+TI,Juan Olarte,Colombia,19/09/2023,9,19:00,18:54,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,19/09/2023,9,19:00,18:47,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,20/09/2023,9,19:00,18:56,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,20/09/2023,9,19:00,18:58,A TIEMPO,0
+Calidad,Marcia Diaz,Peru,20/09/2023,9,19:00,18:51,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,20/09/2023,9,19:00,18:44,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,20/09/2023,9,19:00,19:00,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,20/09/2023,9,19:00,19:02,TARDE,2
+Construccion,Oscar Cardenas,Colombia,20/09/2023,9,19:00,18:55,A TIEMPO,0
+Calidad,Virginia Morales,Peru,20/09/2023,9,19:00,18:56,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,20/09/2023,9,19:00,18:49,TEMPRANO,0
+Calidad,Melissa Sanchez,Peru,20/09/2023,9,19:00,18:55,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,20/09/2023,9,19:00,18:43,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,20/09/2023,9,19:00,19:01,TARDE,1
+TI,Francisco Moreno,Colombia,20/09/2023,9,19:00,18:56,A TIEMPO,0
+Proyectos,Edgar Villena,Peru,21/09/2023,9,19:00,18:56,A TIEMPO,0
+Calidad,Sergio Gomez,Colombia,21/09/2023,9,19:00,19:01,TARDE,1
+Mineria,Carlos Ulriksen,Chile,21/09/2023,9,19:00,18:57,A TIEMPO,0
+Mantenimiento,Oscar Suarez,Colombia,21/09/2023,9,19:00,18:59,A TIEMPO,0
+TI,Walter Arroyo,Colombia,21/09/2023,9,19:00,18:57,A TIEMPO,0
+TI,Raul Cordova,Peru,21/09/2023,9,19:00,19:02,TARDE,2
+Proyectos,Diego Delgadillo,Bolivia,21/09/2023,9,19:00,18:59,A TIEMPO,0
+Calidad,Virginia Morales,Peru,21/09/2023,9,19:00,18:54,TEMPRANO,0
+Mantenimiento,Juan Mori,Peru,22/09/2023,9,19:00,18:44,TEMPRANO,0
+Calidad,Daniel Orellana,Bolivia,22/09/2023,9,19:00,18:53,TEMPRANO,0
+Calidad,Juan Ayala,Peru,22/09/2023,9,19:00,18:55,A TIEMPO,0
+TI,Carlos Osorio,Colombia,22/09/2023,9,19:00,18:54,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,22/09/2023,9,19:00,18:51,TEMPRANO,0
+Calidad,Luis Portela,Colombia,25/09/2023,9,19:00,18:44,TEMPRANO,0
+Calidad,Melissa Sanchez,Peru,25/09/2023,9,19:00,18:58,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,25/09/2023,9,19:00,19:00,A TIEMPO,0
+Calidad,Marcia Diaz,Peru,25/09/2023,9,19:00,18:49,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,25/09/2023,9,19:00,18:53,TEMPRANO,0
+Calidad,Juan Ayala,Peru,25/09/2023,9,19:00,18:48,TEMPRANO,0
+TI,Walter Arroyo,Colombia,25/09/2023,9,19:00,18:58,A TIEMPO,0
+Calidad,Virginia Morales,Peru,25/09/2023,9,19:00,18:57,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,25/09/2023,9,19:00,18:49,TEMPRANO,0
+Calidad,Ricardo Lopez,Colombia,25/09/2023,9,19:00,18:50,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,26/09/2023,9,19:00,18:56,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,26/09/2023,9,19:00,18:56,A TIEMPO,0
+Construccion,Boris Heredia,Chile,26/09/2023,9,19:00,18:56,A TIEMPO,0
+Proyectos,Edgar Villena,Peru,26/09/2023,9,19:00,18:52,TEMPRANO,0
+Mantenimiento,Antonio Marquez,Colombia,26/09/2023,9,19:00,18:59,A TIEMPO,0
+TI,Freddy Jimenez,Venezuela,26/09/2023,9,19:00,18:48,TEMPRANO,0
+TI,Richard Gonzalez,Colombia,26/09/2023,9,19:00,18:52,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,26/09/2023,9,19:00,18:49,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,26/09/2023,9,19:00,18:55,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,26/09/2023,9,19:00,18:59,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,27/09/2023,9,19:00,18:53,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,27/09/2023,9,19:00,18:56,A TIEMPO,0
+Calidad,Marcia Diaz,Peru,27/09/2023,9,19:00,18:43,TEMPRANO,0
+Calidad,Juan Ayala,Peru,27/09/2023,9,19:00,19:02,TARDE,2
+Proyectos,Alfredo Ugalde,Colombia,27/09/2023,9,19:00,18:58,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,27/09/2023,9,19:00,19:04,TARDE,4
+Construccion,Oscar Cardenas,Colombia,27/09/2023,9,19:00,19:01,TARDE,1
+Calidad,Silvia Bellido,Peru,27/09/2023,9,19:00,18:50,TEMPRANO,0
+Calidad,Virginia Morales,Peru,27/09/2023,9,19:00,18:57,A TIEMPO,0
+Calidad,Ricardo Lopez,Colombia,27/09/2023,9,19:00,18:49,TEMPRANO,0
+TI,Francisco Moreno,Colombia,27/09/2023,9,19:00,18:57,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,27/09/2023,9,19:00,18:59,A TIEMPO,0
+Calidad,Luis Portela,Colombia,27/09/2023,9,19:00,18:54,TEMPRANO,0
+TI,Raul Cordova,Peru,28/09/2023,9,19:00,18:54,TEMPRANO,0
+Proyectos,Edgar Villena,Peru,28/09/2023,9,19:00,19:00,A TIEMPO,0
+Mantenimiento,Oscar Suarez,Colombia,28/09/2023,9,19:00,19:01,TARDE,1
+TI,Walter Arroyo,Colombia,28/09/2023,9,19:00,18:59,A TIEMPO,0
+Calidad,Daniel Orellana,Bolivia,28/09/2023,9,19:00,18:51,TEMPRANO,0
+Calidad,Virginia Morales,Peru,28/09/2023,9,19:00,18:51,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,29/09/2023,9,19:00,18:50,TEMPRANO,0
+Calidad,Juan Ayala,Peru,29/09/2023,9,19:00,18:49,TEMPRANO,0
+Calidad,Daniel Orellana,Bolivia,29/09/2023,9,19:00,18:50,TEMPRANO,0
+TI,Carlos Osorio,Colombia,29/09/2023,9,19:00,18:53,TEMPRANO,0
+TI,Juan Olarte,Colombia,29/09/2023,9,19:00,18:55,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,29/09/2023,9,20:00,19:03,TEMPRANO,0
+Calidad,Luis Portela,Colombia,02/10/2023,10,19:00,19:02,TARDE,2
+Calidad,Gina Dominguez,Peru,02/10/2023,10,19:00,19:01,TARDE,1
+Calidad,Juan Ayala,Peru,02/10/2023,10,19:00,19:00,A TIEMPO,0
+TI,Walter Arroyo,Colombia,02/10/2023,10,19:00,18:54,TEMPRANO,0
+Calidad,Virginia Morales,Peru,02/10/2023,10,19:00,18:59,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,02/10/2023,10,19:00,18:51,TEMPRANO,0
+Calidad,Ricardo Lopez,Colombia,02/10/2023,10,19:00,18:49,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,03/10/2023,10,19:00,18:58,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,03/10/2023,10,19:00,19:00,A TIEMPO,0
+Construccion,Boris Heredia,Chile,03/10/2023,10,19:00,18:54,TEMPRANO,0
+Construccion,Luis Alvarado,Chile,03/10/2023,10,19:00,19:04,TARDE,4
+Construccion,Oscar Cardenas,Colombia,03/10/2023,10,19:00,18:58,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,03/10/2023,10,19:00,18:58,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,03/10/2023,10,19:00,18:34,TEMPRANO,0
+TI,Juan Olarte,Colombia,03/10/2023,10,19:00,19:01,TARDE,1
+TI,Freddy Jimenez,Venezuela,03/10/2023,10,19:00,18:54,TEMPRANO,0
+Proyectos,Edgar Villena,Peru,03/10/2023,10,19:00,18:54,TEMPRANO,0
+TI,Raul Cordova,Peru,03/10/2023,10,19:00,18:59,A TIEMPO,0
+Mantenimiento,Antonio Marquez,Colombia,03/10/2023,10,19:00,19:10,TARDE,10
+Mantenimiento,Antonio Marquez,Colombia,03/10/2023,10,19:00,18:56,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,03/10/2023,10,19:00,18:53,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,04/10/2023,10,19:00,18:54,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,04/10/2023,10,19:00,19:11,TARDE,11
+Calidad,Juan Ayala,Peru,04/10/2023,10,19:00,19:04,TARDE,4
+Proyectos,Alfredo Ugalde,Colombia,04/10/2023,10,19:00,18:56,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,04/10/2023,10,19:00,19:01,TARDE,1
+Proyectos,Andres Chumioque,Peru,04/10/2023,10,19:00,18:52,TEMPRANO,0
+Proyectos,Luis Marino,Colombia,04/10/2023,10,19:00,18:46,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,04/10/2023,10,19:00,19:01,TARDE,1
+Calidad,Melissa Sanchez,Peru,04/10/2023,10,19:00,18:52,TEMPRANO,0
+Calidad,Luis Portela,Colombia,04/10/2023,10,19:00,18:58,A TIEMPO,0
+TI,Francisco Moreno,Colombia,04/10/2023,10,19:00,18:59,A TIEMPO,0
+Proyectos,Edgar Villena,Peru,05/10/2023,10,19:00,18:59,A TIEMPO,0
+Mineria,Carlos Ulriksen,Chile,05/10/2023,10,19:00,18:50,TEMPRANO,0
+TI,Raul Cordova,Peru,05/10/2023,10,19:00,19:04,TARDE,4
+Proyectos,Oscar Valentin,Peru,05/10/2023,10,20:00,19:06,TEMPRANO,0
+Mantenimiento,Oscar Suarez,Colombia,05/10/2023,10,19:00,18:58,A TIEMPO,0
+Calidad,Daniel Orellana,Bolivia,05/10/2023,10,19:00,18:52,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,05/10/2023,10,19:00,19:03,TARDE,3
+TI,Walter Arroyo,Colombia,05/10/2023,10,19:00,18:56,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,06/10/2023,10,20:00,20:03,TARDE,3
+Calidad,Juan Ayala,Peru,06/10/2023,10,19:00,18:54,TEMPRANO,0
+TI,Carlos Osorio,Colombia,06/10/2023,10,19:00,18:52,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,06/10/2023,10,19:00,18:57,A TIEMPO,0
+Calidad,Luis Portela,Colombia,09/10/2023,10,19:00,19:02,TARDE,2
+Calidad,Silvia Bellido,Peru,09/10/2023,10,19:00,18:53,TEMPRANO,0
+Calidad,Ricardo Lopez,Colombia,09/10/2023,10,19:00,18:51,TEMPRANO,0
+TI,Walter Arroyo,Colombia,09/10/2023,10,19:00,18:59,A TIEMPO,0
+Calidad,Juan Ayala,Peru,09/10/2023,10,19:00,18:57,A TIEMPO,0
+Construccion,Boris Heredia,Chile,10/10/2023,10,19:00,19:00,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,10/10/2023,10,19:00,18:57,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,10/10/2023,10,19:00,18:58,A TIEMPO,0
+TI,Freddy Jimenez,Venezuela,10/10/2023,10,19:00,19:07,TARDE,7
+Proyectos,Jaime Ferro,Colombia,10/10/2023,10,19:00,18:58,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,10/10/2023,10,19:00,18:57,A TIEMPO,0
+TI,Juan Olarte,Colombia,10/10/2023,10,19:00,18:59,A TIEMPO,0
+Proyectos,Edgar Villena,Peru,10/10/2023,10,19:00,19:00,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,10/10/2023,10,19:00,18:39,TEMPRANO,0
+Mantenimiento,Antonio Marquez,Colombia,10/10/2023,10,19:00,19:01,TARDE,1
+Proyectos,Luis Marino,Colombia,11/10/2023,10,19:00,18:54,TEMPRANO,0
+Calidad,Luis Portela,Colombia,11/10/2023,10,19:00,18:52,TEMPRANO,0
+TI,Francisco Moreno,Colombia,11/10/2023,10,19:00,18:58,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,11/10/2023,10,19:00,18:48,TEMPRANO,0
+Proyectos,Andres Chumioque,Peru,11/10/2023,10,19:00,18:44,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,11/10/2023,10,19:00,19:00,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,11/10/2023,10,19:00,18:57,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,11/10/2023,10,19:00,19:00,A TIEMPO,0
+Calidad,Juan Ayala,Peru,11/10/2023,10,19:00,18:58,A TIEMPO,0
+Calidad,Ricardo Lopez,Colombia,11/10/2023,10,19:00,18:51,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,11/10/2023,10,19:00,18:49,TEMPRANO,0
+Proyectos,Edgar Villena,Peru,12/10/2023,10,19:00,18:58,A TIEMPO,0
+Mineria,Carlos Ulriksen,Chile,12/10/2023,10,19:00,18:55,A TIEMPO,0
+TI,Raul Cordova,Peru,12/10/2023,10,19:00,19:02,TARDE,2
+Mantenimiento,Oscar Suarez,Colombia,12/10/2023,10,19:00,18:55,A TIEMPO,0
+Calidad,Daniel Orellana,Bolivia,12/10/2023,10,19:00,18:54,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,12/10/2023,10,19:00,18:57,A TIEMPO,0
+TI,Walter Arroyo,Colombia,12/10/2023,10,19:00,18:55,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,13/10/2023,10,19:00,18:49,TEMPRANO,0
+TI,Carlos Osorio,Colombia,13/10/2023,10,19:00,18:54,TEMPRANO,0
+Calidad,Virginia Morales,Peru,13/10/2023,10,19:00,19:00,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,13/10/2023,10,20:00,20:00,A TIEMPO,0
+Calidad,Juan Ayala,Peru,16/10/2023,10,19:00,19:02,TARDE,2
+TI,Walter Arroyo,Colombia,16/10/2023,10,19:00,18:57,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,16/10/2023,10,19:00,18:27,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,16/10/2023,10,19:00,18:50,TEMPRANO,0
+Calidad,Pedro Ordonez,Peru,16/10/2023,10,19:00,19:01,TARDE,1
+Calidad,Gina Dominguez,Peru,16/10/2023,10,19:00,18:59,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,17/10/2023,10,19:00,19:03,TARDE,3
+Construccion,Luis Alvarado,Chile,17/10/2023,10,19:00,19:05,TARDE,5
+Mantenimiento,Antonio Marquez,Colombia,17/10/2023,10,19:00,18:57,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,17/10/2023,10,19:00,18:52,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,17/10/2023,10,19:00,18:53,TEMPRANO,0
+TI,Freddy Jimenez,Venezuela,17/10/2023,10,19:00,18:55,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,17/10/2023,10,19:00,18:23,TEMPRANO,0
+TI,Francisco Moreno,Colombia,17/10/2023,10,19:00,19:02,TARDE,2
+Proyectos,Edgar Villena,Peru,17/10/2023,10,19:00,18:57,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,17/10/2023,10,19:00,19:00,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,18/10/2023,10,19:00,18:53,TEMPRANO,0
+Calidad,Juan Ayala,Peru,18/10/2023,10,19:00,18:54,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,18/10/2023,10,19:00,19:00,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,18/10/2023,10,19:00,19:00,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,18/10/2023,10,19:00,18:57,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,18/10/2023,10,19:00,19:04,TARDE,4
+Calidad,Pedro Ordonez,Peru,18/10/2023,10,19:00,18:58,A TIEMPO,0
+Proyectos,Luis Marino,Colombia,18/10/2023,10,19:00,18:57,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,18/10/2023,10,19:00,18:57,A TIEMPO,0
+Proyectos,Hector Beltran,Colombia,18/10/2023,10,19:00,19:10,TARDE,10
+TI,Francisco Moreno,Colombia,18/10/2023,10,19:00,18:57,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,18/10/2023,10,19:00,18:51,TEMPRANO,0
+Proyectos,Edgar Villena,Peru,19/10/2023,10,19:00,18:50,TEMPRANO,0
+TI,Raul Cordova,Peru,19/10/2023,10,19:00,19:03,TARDE,3
+Proyectos,Nestor Rodriguez,Colombia,19/10/2023,10,19:00,18:52,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,19/10/2023,10,19:00,18:59,A TIEMPO,0
+TI,Walter Arroyo,Colombia,19/10/2023,10,19:00,18:57,A TIEMPO,0
+Mantenimiento,Oscar Suarez,Colombia,19/10/2023,10,19:00,18:54,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,20/10/2023,10,20:00,20:01,TARDE,1
+Calidad,Virginia Morales,Peru,20/10/2023,10,19:00,18:53,TEMPRANO,0
+TI,Brenda Pena,Mexico,20/10/2023,10,19:00,18:57,A TIEMPO,0
+Calidad,Juan Ayala,Peru,23/10/2023,10,19:00,19:02,TARDE,2
+TI,Walter Arroyo,Colombia,23/10/2023,10,19:00,18:59,A TIEMPO,0
+Calidad,Pedro Ordonez,Peru,23/10/2023,10,19:00,19:00,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,23/10/2023,10,19:00,18:56,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,23/10/2023,10,19:00,18:58,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,23/10/2023,10,19:00,18:51,TEMPRANO,0
+Proyectos,Oscar Valentin,Peru,24/10/2023,10,19:00,18:45,TEMPRANO,0
+Proyectos,Hector Beltran,Colombia,24/10/2023,10,19:00,18:59,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,24/10/2023,10,19:00,18:59,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,24/10/2023,10,19:00,19:02,TARDE,2
+TI,Francisco Moreno,Colombia,24/10/2023,10,19:00,19:00,A TIEMPO,0
+Proyectos,Edgar Villena,Peru,24/10/2023,10,19:00,19:05,TARDE,5
+Mantenimiento,Antonio Marquez,Colombia,24/10/2023,10,19:00,18:54,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,24/10/2023,10,19:00,18:42,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,24/10/2023,10,19:00,19:00,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,24/10/2023,10,19:00,19:00,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,24/10/2023,10,19:00,18:54,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,24/10/2023,10,19:00,19:00,A TIEMPO,0
+TI,Freddy Jimenez,Venezuela,24/10/2023,10,19:00,18:41,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,25/10/2023,10,19:00,18:54,TEMPRANO,0
+Calidad,Juan Ayala,Peru,25/10/2023,10,19:00,19:02,TARDE,2
+Calidad,Jaime Yanez,Peru,25/10/2023,10,19:00,18:49,TEMPRANO,0
+Proyectos,Cesar Ramirez,Colombia,25/10/2023,10,19:00,18:52,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,25/10/2023,10,19:00,19:08,TARDE,8
+Construccion,Oscar Cardenas,Colombia,25/10/2023,10,19:00,18:54,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,25/10/2023,10,19:00,18:50,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,25/10/2023,10,19:00,18:58,A TIEMPO,0
+Proyectos,Hector Beltran,Colombia,25/10/2023,10,19:00,19:00,A TIEMPO,0
+Calidad,Pedro Ordonez,Peru,25/10/2023,10,19:00,18:59,A TIEMPO,0
+Proyectos,Luis Marino,Colombia,25/10/2023,10,19:00,18:57,A TIEMPO,0
+TI,Francisco Moreno,Colombia,25/10/2023,10,19:00,19:00,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,26/10/2023,10,19:00,18:55,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,26/10/2023,10,19:00,18:58,A TIEMPO,0
+Proyectos,Edgar Villena,Peru,26/10/2023,10,19:00,18:53,TEMPRANO,0
+TI,Walter Arroyo,Colombia,26/10/2023,10,19:00,18:54,TEMPRANO,0
+Mantenimiento,Jhon Roman,Colombia,26/10/2023,10,19:00,18:52,TEMPRANO,0
+Mantenimiento,Humberto Dulanto,Peru,26/10/2023,10,19:00,18:41,TEMPRANO,0
+TI,Raul Cordova,Peru,26/10/2023,10,19:00,18:59,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,27/10/2023,10,20:00,20:02,TARDE,2
+Calidad,Virginia Morales,Peru,27/10/2023,10,19:00,18:52,TEMPRANO,0
+TI,Brenda Pena,Mexico,27/10/2023,10,19:00,19:00,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,27/10/2023,10,19:00,19:00,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,30/10/2023,10,19:00,18:58,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,30/10/2023,10,19:00,18:50,TEMPRANO,0
+Calidad,Juan Ayala,Peru,30/10/2023,10,19:00,19:00,A TIEMPO,0
+TI,Walter Arroyo,Colombia,30/10/2023,10,19:00,18:54,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,30/10/2023,10,19:00,18:46,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,30/10/2023,10,19:00,18:56,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,31/10/2023,10,19:00,18:56,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,31/10/2023,10,19:00,18:57,A TIEMPO,0
+Calidad,Juan Ayala,Peru,31/10/2023,10,19:00,18:58,A TIEMPO,0
+Construccion,Boris Heredia,Chile,31/10/2023,10,19:00,18:56,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,31/10/2023,10,19:00,18:51,TEMPRANO,0
+TI,Freddy Jimenez,Venezuela,31/10/2023,10,19:00,18:52,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,31/10/2023,10,19:00,19:00,A TIEMPO,0
+TI,Raul Cordova,Peru,31/10/2023,10,19:00,19:05,TARDE,5
+Calidad,Pedro Ordonez,Peru,31/10/2023,10,19:00,18:59,A TIEMPO,0
+Proyectos,Hector Beltran,Colombia,31/10/2023,10,19:00,18:57,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,31/10/2023,10,19:00,18:52,TEMPRANO,0
+Calidad,Mauricio Amezquita,Colombia,31/10/2023,10,19:00,18:49,TEMPRANO,0
+Mantenimiento,Antonio Marquez,Colombia,31/10/2023,10,19:00,18:57,A TIEMPO,0
+Mantenimiento,Humberto Dulanto,Peru,02/11/2023,11,19:00,18:25,TEMPRANO,0
+Calidad,Pedro Ordonez,Peru,02/11/2023,11,19:00,19:00,A TIEMPO,0
+Proyectos,Edgar Villena,Peru,02/11/2023,11,19:00,19:03,TARDE,3
+Mantenimiento,Jhon Roman,Colombia,02/11/2023,11,19:00,18:58,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,02/11/2023,11,19:00,18:59,A TIEMPO,0
+TI,Walter Arroyo,Colombia,02/11/2023,11,19:00,18:49,TEMPRANO,0
+TI,Raul Cordova,Peru,02/11/2023,11,19:00,19:04,TARDE,4
+Calidad,Oscar Valentin,Peru,03/11/2023,11,19:00,18:55,A TIEMPO,0
+TI,Brenda Pena,Mexico,03/11/2023,11,19:00,19:01,TARDE,1
+Calidad,Virginia Morales,Peru,03/11/2023,11,19:00,18:55,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,03/11/2023,11,20:00,20:02,TARDE,2
+Calidad,Juan Ayala,Peru,03/11/2023,11,19:00,19:00,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,03/11/2023,11,19:00,18:58,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,06/11/2023,11,19:00,18:56,A TIEMPO,0
+Calidad,Pedro Ordonez,Peru,06/11/2023,11,19:00,18:55,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,06/11/2023,11,19:00,18:52,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,06/11/2023,11,19:00,18:50,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,06/11/2023,11,19:00,19:00,A TIEMPO,0
+Calidad,Juan Ayala,Peru,06/11/2023,11,19:00,19:01,TARDE,1
+TI,Walter Arroyo,Colombia,06/11/2023,11,19:00,18:56,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,07/11/2023,11,19:00,18:58,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,07/11/2023,11,19:00,18:56,A TIEMPO,0
+Construccion,Boris Heredia,Chile,07/11/2023,11,19:00,18:58,A TIEMPO,0
+Mantenimiento,Antonio Marquez,Colombia,07/11/2023,11,19:00,19:00,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,07/11/2023,11,19:00,18:53,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,07/11/2023,11,19:00,18:55,A TIEMPO,0
+Proyectos,Oscar Valentin,Peru,07/11/2023,11,19:00,18:31,TEMPRANO,0
+TI,Freddy Jimenez,Venezuela,07/11/2023,11,19:00,18:52,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,07/11/2023,11,19:00,18:59,A TIEMPO,0
+TI,Raul Cordova,Peru,07/11/2023,11,19:00,19:04,TARDE,4
+Proyectos,Edgar Villena,Peru,07/11/2023,11,19:00,18:58,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,07/11/2023,11,19:00,18:43,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,08/11/2023,11,19:00,18:58,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,08/11/2023,11,19:00,18:51,TEMPRANO,0
+Proyectos,Diego Delgadillo,Bolivia,08/11/2023,11,19:00,19:00,A TIEMPO,0
+Construccion,Oscar Cardenas,Colombia,08/11/2023,11,19:00,19:01,TARDE,1
+Calidad,Silvia Bellido,Peru,08/11/2023,11,19:00,18:52,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,08/11/2023,11,19:00,19:01,TARDE,1
+Proyectos,Jaime Ferro,Colombia,08/11/2023,11,19:00,19:00,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,08/11/2023,11,19:00,18:57,A TIEMPO,0
+Proyectos,Hector Beltran,Colombia,08/11/2023,11,19:00,18:59,A TIEMPO,0
+TI,Francisco Moreno,Colombia,08/11/2023,11,19:00,18:59,A TIEMPO,0
+Proyectos,Edgar Villena,Peru,09/11/2023,11,19:00,18:53,TEMPRANO,0
+Mantenimiento,Jhon Roman,Colombia,09/11/2023,11,19:00,18:54,TEMPRANO,0
+Calidad,Jorge Ponce,Peru,09/11/2023,11,19:00,18:53,TEMPRANO,0
+TI,Raul Cordova,Peru,09/11/2023,11,19:00,19:04,TARDE,4
+Proyectos,Nestor Rodriguez,Colombia,09/11/2023,11,19:00,18:59,A TIEMPO,0
+TI,Walter Arroyo,Colombia,09/11/2023,11,19:00,18:54,TEMPRANO,0
+Calidad,Oscar Valentin,Peru,10/11/2023,11,19:00,18:48,TEMPRANO,0
+Calidad,Sergio Gomez,Colombia,10/11/2023,11,19:00,18:54,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,10/11/2023,11,19:00,19:00,A TIEMPO,0
+Proyectos,Juan Ortega,Colombia,10/11/2023,11,20:00,20:01,TARDE,1
+TI,Brenda Pena,Mexico,10/11/2023,11,19:00,19:00,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,13/11/2023,11,19:00,18:28,TEMPRANO,0
+Calidad,Josue Hurtado,Colombia,13/11/2023,11,19:00,18:46,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,13/11/2023,11,19:00,18:50,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,13/11/2023,11,19:00,18:46,TEMPRANO,0
+TI,Walter Arroyo,Colombia,13/11/2023,11,19:00,18:57,A TIEMPO,0
+Proyectos,Edgar Villena,Peru,14/11/2023,11,19:00,18:58,A TIEMPO,0
+Proyectos,Oscar Valentin,Peru,14/11/2023,11,19:00,18:41,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,14/11/2023,11,19:00,18:58,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,14/11/2023,11,19:00,18:55,A TIEMPO,0
+Construccion,Boris Heredia,Chile,14/11/2023,11,19:00,18:53,TEMPRANO,0
+TI,Richard Gonzalez,Colombia,14/11/2023,11,19:00,18:51,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,14/11/2023,11,19:00,18:48,TEMPRANO,0
+TI,Raul Cordova,Peru,14/11/2023,11,19:00,19:01,TARDE,1
+TI,Freddy Jimenez,Venezuela,14/11/2023,11,19:00,18:57,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,14/11/2023,11,19:00,18:46,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,14/11/2023,11,19:00,18:59,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,15/11/2023,11,19:00,18:54,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,15/11/2023,11,19:00,18:59,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,15/11/2023,11,19:00,18:55,A TIEMPO,0
+TI,Francisco Moreno,Colombia,15/11/2023,11,19:00,19:00,A TIEMPO,0
+Calidad,Josue Hurtado,Colombia,15/11/2023,11,19:00,18:32,TEMPRANO,0
+Calidad,Silvia Bellido,Peru,15/11/2023,11,19:00,18:51,TEMPRANO,0
+Proyectos,Alfredo Ugalde,Colombia,15/11/2023,11,19:00,19:01,TARDE,1
+Construccion,Sofia Lopez,Colombia,15/11/2023,11,19:00,19:00,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,15/11/2023,11,19:00,18:53,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,15/11/2023,11,19:00,19:12,TARDE,12
+Mineria,Alex Carpanetti,Chile,16/11/2023,11,19:00,18:45,TEMPRANO,0
+Mantenimiento,Jhon Roman,Colombia,16/11/2023,11,19:00,18:54,TEMPRANO,0
+TI,Raul Cordova,Peru,16/11/2023,11,19:00,19:06,TARDE,6
+Mantenimiento,Humberto Dulanto,Peru,16/11/2023,11,19:00,18:40,TEMPRANO,0
+Calidad,Jorge Ponce,Peru,16/11/2023,11,19:00,18:54,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,16/11/2023,11,19:00,18:55,A TIEMPO,0
+TI,Walter Arroyo,Colombia,16/11/2023,11,19:00,18:56,A TIEMPO,0
+TI,Brenda Pena,Mexico,17/11/2023,11,19:00,19:02,TARDE,2
+Proyectos,Juan Ortega,Colombia,17/11/2023,11,20:00,20:05,TARDE,5
+Calidad,Sergio Gomez,Colombia,17/11/2023,11,19:00,18:43,TEMPRANO,0
+Calidad,Oscar Valentin,Peru,17/11/2023,11,19:00,18:44,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,17/11/2023,11,19:00,18:59,A TIEMPO,0
+Calidad,Josue Hurtado,Colombia,20/11/2023,11,19:00,18:35,TEMPRANO,0
+TI,Walter Arroyo,Colombia,20/11/2023,11,19:00,18:57,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,20/11/2023,11,19:00,18:50,TEMPRANO,0
+Calidad,Jaime Yanez,Peru,20/11/2023,11,19:00,18:57,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,20/11/2023,11,19:00,19:03,TARDE,3
+Construccion,Luis Alvarado,Chile,20/11/2023,11,19:00,19:02,TARDE,2
+Calidad,Gina Dominguez,Peru,20/11/2023,11,19:00,19:00,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,21/11/2023,11,19:00,19:00,A TIEMPO,0
+Construccion,Boris Heredia,Chile,21/11/2023,11,19:00,18:58,A TIEMPO,0
+Proyectos,Oscar Valentin,Peru,21/11/2023,11,19:00,18:45,TEMPRANO,0
+TI,Richard Gonzalez,Colombia,21/11/2023,11,19:00,18:57,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,21/11/2023,11,20:00,20:00,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,21/11/2023,11,19:00,18:54,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,21/11/2023,11,19:00,19:01,TARDE,1
+Calidad,Mauricio Amezquita,Colombia,21/11/2023,11,19:00,18:46,TEMPRANO,0
+TI,Raul Cordova,Peru,21/11/2023,11,19:00,19:05,TARDE,5
+Construccion,Sofia Lopez,Colombia,22/11/2023,11,19:00,19:03,TARDE,3
+Calidad,Jaime Yanez,Peru,22/11/2023,11,19:00,18:56,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,22/11/2023,11,19:00,18:50,TEMPRANO,0
+Construccion,Milena Cardenas,Colombia,22/11/2023,11,19:00,18:59,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,22/11/2023,11,19:00,18:55,A TIEMPO,0
+Calidad,Silvia Bellido,Peru,22/11/2023,11,19:00,18:51,TEMPRANO,0
+Calidad,Josue Hurtado,Colombia,22/11/2023,11,19:00,18:35,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,22/11/2023,11,19:00,18:55,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,22/11/2023,11,19:00,18:51,TEMPRANO,0
+Construccion,Luis Alvarado,Chile,22/11/2023,11,19:00,19:08,TARDE,8
+Proyectos,Jaime Ferro,Colombia,22/11/2023,11,19:00,19:00,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,22/11/2023,11,19:00,18:58,A TIEMPO,0
+Mineria,Alex Carpanetti,Chile,23/11/2023,11,19:00,18:51,TEMPRANO,0
+Mantenimiento,Jhon Roman,Colombia,23/11/2023,11,19:00,18:54,TEMPRANO,0
+TI,Raul Cordova,Peru,23/11/2023,11,19:00,19:04,TARDE,4
+Calidad,Jorge Ponce,Peru,23/11/2023,11,19:00,18:56,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,23/11/2023,11,19:00,18:57,A TIEMPO,0
+TI,Walter Arroyo,Colombia,23/11/2023,11,19:00,18:55,A TIEMPO,0
+Mantenimiento,Humberto Dulanto,Peru,23/11/2023,11,19:00,18:35,TEMPRANO,0
+TI,Brenda Pena,Mexico,24/11/2023,11,19:00,19:00,A TIEMPO,0
+Calidad,Sergio Gomez,Colombia,24/11/2023,11,19:00,19:00,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,24/11/2023,11,19:00,19:04,TARDE,4
+Calidad,Francisco Del Puerto,Mexico,24/11/2023,11,19:00,18:52,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,24/11/2023,11,20:00,20:01,TARDE,1
+Calidad,Gina Dominguez,Peru,27/11/2023,11,19:00,18:59,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,27/11/2023,11,19:00,18:53,TEMPRANO,0
+Construccion,Luis Alvarado,Chile,27/11/2023,11,19:00,19:00,A TIEMPO,0
+Calidad,Juan Ayala,Peru,27/11/2023,11,19:00,18:51,TEMPRANO,0
+Calidad,Josue Hurtado,Colombia,27/11/2023,11,19:00,18:55,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,27/11/2023,11,19:00,18:55,A TIEMPO,0
+TI,Walter Arroyo,Colombia,27/11/2023,11,19:00,18:55,A TIEMPO,0
+IA,Andres Villarroel,Chile,28/11/2023,11,19:00,18:54,TEMPRANO,0
+Construccion,Sofia Lopez,Colombia,28/11/2023,11,19:00,18:59,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,28/11/2023,11,19:00,18:57,A TIEMPO,0
+Construccion,Boris Heredia,Chile,28/11/2023,11,19:00,18:58,A TIEMPO,0
+TI,Richard Gonzalez,Colombia,28/11/2023,11,19:00,18:56,A TIEMPO,0
+Construccion,Milena Cardenas,Colombia,28/11/2023,11,19:00,18:54,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,28/11/2023,11,19:00,18:59,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,28/11/2023,11,19:00,18:54,TEMPRANO,0
+Proyectos,Oscar Valentin,Peru,28/11/2023,11,19:00,18:44,TEMPRANO,0
+Construccion,Luis Alvarado,Chile,28/11/2023,11,20:00,20:08,TARDE,8
+Calidad,Gina Dominguez,Peru,28/11/2023,11,19:00,18:59,A TIEMPO,0
+TI,Walter Arroyo,Colombia,28/11/2023,11,19:00,18:46,TEMPRANO,0
+TI,Raul Cordova,Peru,28/11/2023,11,19:00,19:12,TARDE,12
+Construccion,Sofia Lopez,Colombia,29/11/2023,11,19:00,18:59,A TIEMPO,0
+Calidad,Jaime Yanez,Peru,29/11/2023,11,19:00,18:33,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,29/11/2023,11,19:00,18:56,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,29/11/2023,11,19:00,18:55,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,29/11/2023,11,19:00,18:56,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,29/11/2023,11,19:00,19:01,TARDE,1
+Construccion,Milena Cardenas,Colombia,29/11/2023,11,19:00,19:01,TARDE,1
+Proyectos,Alfredo Ugalde,Colombia,29/11/2023,11,19:00,18:57,A TIEMPO,0
+Calidad,Josue Hurtado,Colombia,29/11/2023,11,19:00,18:45,TEMPRANO,0
+Proyectos,Hector Beltran,Colombia,29/11/2023,11,19:00,18:59,A TIEMPO,0
+Calidad,Juan Ayala,Peru,29/11/2023,11,19:00,18:53,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,29/11/2023,11,19:00,19:00,A TIEMPO,0
+Mantenimiento,Humberto Dulanto,Peru,30/11/2023,11,19:00,18:43,TEMPRANO,0
+Mineria,Alex Carpanetti,Chile,30/11/2023,11,19:00,19:00,A TIEMPO,0
+Mantenimiento,Jhon Roman,Colombia,30/11/2023,11,19:00,18:55,A TIEMPO,0
+TI,Raul Cordova,Peru,30/11/2023,11,19:00,19:04,TARDE,4
+Calidad,Jorge Ponce,Peru,30/11/2023,11,19:00,18:56,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,30/11/2023,11,19:00,18:57,A TIEMPO,0
+Proyectos,Sofia Lopez,Colombia,30/11/2023,11,19:00,19:03,TARDE,3
+TI,Walter Arroyo,Colombia,30/11/2023,11,19:00,18:58,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,01/12/2023,12,19:00,19:04,TARDE,4
+TI,Brenda Pena,Mexico,01/12/2023,12,19:00,19:02,TARDE,2
+Proyectos,Juan Ortega,Colombia,01/12/2023,12,20:00,20:02,TARDE,2
+Calidad,Sergio Gomez,Colombia,01/12/2023,12,19:00,19:00,A TIEMPO,0
+Calidad,Francisco Del Puerto,Mexico,01/12/2023,12,19:00,18:48,TEMPRANO,0
+TI,Walter Arroyo,Colombia,04/12/2023,12,19:00,19:05,TARDE,5
+Proyectos,Sofia Lopez,Colombia,04/12/2023,12,19:00,18:57,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,04/12/2023,12,19:00,18:59,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,05/12/2023,12,19:00,18:42,TEMPRANO,0
+Construccion,Boris Heredia,Chile,05/12/2023,12,19:00,18:59,A TIEMPO,0
+IA,Andres Villarroel,Chile,05/12/2023,12,19:00,18:45,TEMPRANO,0
+TI,Richard Gonzalez,Colombia,05/12/2023,12,19:00,18:48,TEMPRANO,0
+Construccion,Milena Cardenas,Colombia,05/12/2023,12,19:00,18:58,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,05/12/2023,12,19:00,19:00,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,05/12/2023,12,19:00,18:54,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,05/12/2023,12,19:00,18:58,A TIEMPO,0
+Proyectos,Oscar Valentin,Peru,05/12/2023,12,19:00,18:45,TEMPRANO,0
+Construccion,Luis Alvarado,Chile,05/12/2023,12,20:00,20:07,TARDE,7
+Calidad,Gina Dominguez,Peru,05/12/2023,12,19:00,18:56,A TIEMPO,0
+TI,Walter Arroyo,Colombia,05/12/2023,12,19:00,18:59,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,06/12/2023,12,19:00,18:56,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,06/12/2023,12,19:00,18:58,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,06/12/2023,12,19:00,19:04,TARDE,4
+Proyectos,Hector Beltran,Colombia,06/12/2023,12,19:00,19:00,A TIEMPO,0
+Calidad,Juan Ayala,Peru,06/12/2023,12,19:00,18:48,TEMPRANO,0
+TI,Walter Arroyo,Colombia,06/12/2023,12,19:00,18:54,TEMPRANO,0
+Calidad,Jorge Ponce,Peru,06/12/2023,12,19:00,18:56,A TIEMPO,0
+IA,Andres Villarroel,Chile,06/12/2023,12,19:00,19:06,TARDE,6
+Proyectos,Cesar Ramirez,Colombia,06/12/2023,12,19:00,18:57,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,06/12/2023,12,19:00,18:59,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,06/12/2023,12,19:00,19:00,A TIEMPO,0
+Proyectos,Jorge Cortes,Mexico,07/12/2023,12,19:00,18:49,TEMPRANO,0
+Proyectos,Sofia Lopez,Colombia,07/12/2023,12,19:00,18:58,A TIEMPO,0
+TI,Raul Cordova,Peru,07/12/2023,12,19:00,19:09,TARDE,9
+Mineria,Jose Delgado,Chile,07/12/2023,12,19:00,18:47,TEMPRANO,0
+Mantenimiento,Jhon Roman,Colombia,07/12/2023,12,19:00,18:55,A TIEMPO,0
+TI,Walter Arroyo,Colombia,11/12/2023,12,19:00,18:51,TEMPRANO,0
+Construccion,Luis Alvarado,Chile,11/12/2023,12,19:00,19:04,TARDE,4
+Calidad,Juan Ayala,Peru,11/12/2023,12,19:00,18:47,TEMPRANO,0
+Proyectos,Jaime Ferro,Colombia,12/12/2023,12,19:00,18:59,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,12/12/2023,12,19:00,18:57,A TIEMPO,0
+Proyectos,Oscar Valentin,Peru,12/12/2023,12,19:00,18:43,TEMPRANO,0
+TI,Walter Arroyo,Colombia,12/12/2023,12,19:00,18:58,A TIEMPO,0
+TI,Raul Cordova,Peru,12/12/2023,12,19:00,19:02,TARDE,2
+Construccion,Sofia Lopez,Colombia,12/12/2023,12,19:00,18:56,A TIEMPO,0
+Construccion,Boris Heredia,Chile,12/12/2023,12,19:00,19:00,A TIEMPO,0
+IA,Andres Villarroel,Chile,12/12/2023,12,19:00,18:53,TEMPRANO,0
+TI,Stiven Franco,Colombia,12/12/2023,12,19:00,18:56,A TIEMPO,0
+Construccion,Milena Cardenas,Colombia,12/12/2023,12,19:00,19:01,TARDE,1
+Calidad,Juan Ayala,Peru,12/12/2023,12,19:00,18:52,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,12/12/2023,12,20:00,20:01,TARDE,1
+Construccion,Milena Cardenas,Colombia,13/12/2023,12,19:00,18:59,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,13/12/2023,12,19:00,18:59,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,13/12/2023,12,19:00,18:57,A TIEMPO,0
+TI,Walter Arroyo,Colombia,13/12/2023,12,19:00,18:57,A TIEMPO,0
+Proyectos,Luis Marino,Colombia,13/12/2023,12,19:00,18:58,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,13/12/2023,12,19:00,19:02,TARDE,2
+Calidad,Juan Ayala,Peru,13/12/2023,12,19:00,19:00,A TIEMPO,0
+Calidad,Gina Dominguez,Peru,13/12/2023,12,19:00,18:56,A TIEMPO,0
+TI,Raul Cordova,Peru,14/12/2023,12,19:00,19:09,TARDE,9
+Mantenimiento,Jhon Roman,Colombia,14/12/2023,12,19:00,18:53,TEMPRANO,0
+Mineria,Jose Delgado,Chile,14/12/2023,12,19:00,19:21,TARDE,21
+Calidad,Jorge Ponce,Peru,14/12/2023,12,19:00,18:50,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,14/12/2023,12,19:00,18:55,A TIEMPO,0
+IA,Andres Villarroel,Chile,14/12/2023,12,19:00,18:58,A TIEMPO,0
+Proyectos,Cesar Ramirez,Colombia,14/12/2023,12,19:00,18:52,TEMPRANO,0
+Proyectos,Juan Ortega,Colombia,15/12/2023,12,20:00,20:01,TARDE,1
+TI,Brenda Pena,Mexico,15/12/2023,12,19:00,19:00,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,15/12/2023,12,20:00,19:55,A TIEMPO,0
+Proyectos,Jaime Ferro,Colombia,15/12/2023,12,19:00,18:59,A TIEMPO,0
+Construccion,Luis Alvarado,Chile,18/12/2023,12,19:00,19:04,TARDE,4
+Calidad,Giovanni Cajas,Colombia,18/12/2023,12,19:00,18:49,TEMPRANO,0
+Calidad,Juan Ayala,Peru,18/12/2023,12,19:00,19:03,TARDE,3
+Calidad,Mauricio Amezquita,Colombia,18/12/2023,12,19:00,18:56,A TIEMPO,0
+Calidad,Victor Quispe,Peru,18/12/2023,12,19:00,19:05,TARDE,5
+Proyectos,Oscar Valentin,Peru,19/12/2023,12,19:00,18:40,TEMPRANO,0
+Calidad,Gina Dominguez,Peru,19/12/2023,12,19:00,18:51,TEMPRANO,0
+TI,Walter Arroyo,Colombia,19/12/2023,12,19:00,18:56,A TIEMPO,0
+TI,Walter Arroyo,Colombia,19/12/2023,12,19:00,18:58,A TIEMPO,0
+TI,Raul Cordova,Peru,19/12/2023,12,19:00,19:04,TARDE,4
+Calidad,Juan Ayala,Peru,19/12/2023,12,19:00,18:58,A TIEMPO,0
+Construccion,Milena Cardenas,Colombia,19/12/2023,12,19:00,19:07,TARDE,7
+Proyectos,Gustavo Barboza,Peru,19/12/2023,12,19:00,18:52,TEMPRANO,0
+IA,Andres Villarroel,Chile,19/12/2023,12,19:00,18:56,A TIEMPO,0
+Construccion,Boris Heredia,Chile,19/12/2023,12,19:00,18:56,A TIEMPO,0
+Construccion,Sofia Lopez,Colombia,19/12/2023,12,19:00,18:50,TEMPRANO,0
+Construccion,Oscar Cardenas,Colombia,19/12/2023,12,20:00,20:00,A TIEMPO,0
+Calidad,Giovanni Cajas,Colombia,20/12/2023,12,19:00,18:40,TEMPRANO,0
+Calidad,Juan Ayala,Peru,20/12/2023,12,19:00,18:54,TEMPRANO,0
+Construccion,Luis Alvarado,Chile,20/12/2023,12,19:00,19:04,TARDE,4
+TI,Walter Arroyo,Colombia,20/12/2023,12,19:00,19:00,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,20/12/2023,12,19:00,18:51,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,20/12/2023,12,19:00,19:01,TARDE,1
+Construccion,Milena Cardenas,Colombia,20/12/2023,12,19:00,19:08,TARDE,8
+Proyectos,Jaime Ferro,Colombia,20/12/2023,12,19:00,19:00,A TIEMPO,0
+Proyectos,Alfredo Ugalde,Colombia,20/12/2023,12,19:00,19:01,TARDE,1
+Calidad,Victor Quispe,Peru,20/12/2023,12,19:00,18:52,TEMPRANO,0
+Proyectos,Luis Marino,Colombia,20/12/2023,12,19:00,18:54,TEMPRANO,0
+Calidad,Jorge Ponce,Peru,21/12/2023,12,19:00,19:00,A TIEMPO,0
+Proyectos,Nestor Rodriguez,Colombia,21/12/2023,12,19:00,18:59,A TIEMPO,0
+TI,Walter Arroyo,Colombia,21/12/2023,12,19:00,18:57,A TIEMPO,0
+TI,Raul Cordova,Peru,21/12/2023,12,19:00,19:04,TARDE,4
+Mineria,Jose Delgado,Chile,21/12/2023,12,19:00,18:53,TEMPRANO,0
+Proyectos,Nestor Rodriguez,Colombia,22/12/2023,12,20:00,19:57,A TIEMPO,0
+Calidad,Francisco Del Puerto,Mexico,22/12/2023,12,19:00,18:56,A TIEMPO,0
+Calidad,Mauricio Amezquita,Colombia,26/12/2023,12,19:00,18:28,TEMPRANO,0
+TI,Walter Arroyo,Colombia,26/12/2023,12,19:00,18:54,TEMPRANO,0
+TI,Raul Cordova,Peru,26/12/2023,12,19:00,19:04,TARDE,4
+Construccion,Boris Heredia,Chile,26/12/2023,12,19:00,18:58,A TIEMPO,0
+TI,Walter Arroyo,Colombia,27/12/2023,12,19:00,18:55,A TIEMPO,0
+Calidad,Jorge Ponce,Peru,28/12/2023,12,19:00,18:48,TEMPRANO,0
+TI,Raul Cordova,Peru,28/12/2023,12,19:00,19:08,TARDE,8
